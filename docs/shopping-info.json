@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-03T09:05:08Z",
+  "updatedAt": "2026-09-03T09:16:44Z",
   "sourceNotice": "각 행사 카드를 눌러 공식 상세 홈페이지에서 최종 조건을 확인하세요.",
   "sources": {
     "hyundai": {
       "ok": true,
       "count": 9,
-      "checkedAt": "2026-09-03T09:05:08Z",
+      "checkedAt": "2026-09-03T09:16:44Z",
       "url": "https://ehyundai.com/newPortal/EV/EV000001_L.do?page=1"
     },
     "lotte": {
       "ok": true,
       "count": 35,
-      "checkedAt": "2026-09-03T09:05:08Z",
+      "checkedAt": "2026-09-03T09:16:44Z",
       "url": "https://www.lotteshopping.com/shopnow/cntsList?cstrCd=0005"
     },
     "shinsegae": {
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-09-03T09:05:08Z",
+      "checkedAt": "2026-09-03T09:16:44Z",
       "url": "https://deptmapp.shinsegae.com/shopping/event/list.do"
     }
   },
