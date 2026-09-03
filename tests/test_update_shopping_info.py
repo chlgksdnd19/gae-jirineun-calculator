@@ -1,5 +1,6 @@
 import sys
 import unittest
+import json
 from pathlib import Path
 
 
@@ -9,8 +10,12 @@ from update_shopping_info import (
     clean_html,
     official_url,
     parse_hyundai,
+    parse_hyundai_news_api,
     parse_lotte,
+    parse_lotte_branches,
     parse_shinsegae,
+    parse_shinsegae_shopping_json,
+    topics_for,
 )
 
 
@@ -74,6 +79,78 @@ class ParserTest(unittest.TestCase):
         items = parse_shinsegae(page)
         self.assertEqual(items[0]["location"], "전점")
         self.assertIn("eventSeq=2770", items[0]["sourceUrl"])
+
+    def test_fashion_topics_avoid_yeezy_false_positive(self):
+        self.assertEqual(topics_for("키네틱 스테이지 팝업"), [])
+        self.assertEqual(topics_for("아디다스 YEEZY 할인"), ["fashion", "adidas"])
+        self.assertEqual(topics_for("나이키 에어포스 특가"), ["fashion", "nike"])
+
+    def test_hyundai_news_api_keeps_only_fashion(self):
+        page = json.dumps(
+            {
+                "result": {
+                    "result": "200",
+                    "items": [
+                        {
+                            "evntCrdCd": "E1",
+                            "evntCrdNm": "나이키 20% 할인",
+                            "evntCrdTypeCd": {"value": "01"},
+                            "evntPlceNm": "2층 본매장",
+                            "expsEvntStartDt": "20260903000000",
+                            "expsEvntEndDt": "20260906000000",
+                            "imgPath2": "event/nike.jpg",
+                        },
+                        {
+                            "evntCrdCd": "E2",
+                            "evntCrdNm": "식품 선물세트",
+                            "evntCrdTypeCd": {"value": "01"},
+                        },
+                    ],
+                }
+            }
+        )
+        items = parse_hyundai_news_api(page, "B00126000", "천호점")
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0]["topics"], ["fashion", "nike"])
+        self.assertEqual(items[0]["category"], "discount")
+        self.assertIn("branchCd=B00126000", items[0]["sourceUrl"])
+
+    def test_shinsegae_json_uses_genre_for_fashion(self):
+        page = json.dumps(
+            {
+                "shoppingInfoList": {
+                    "page": [
+                        {
+                            "id": "100",
+                            "storeCd": "SC00002",
+                            "mainCd": "02",
+                            "title1": "가을 신상품 제안",
+                            "badge1": "쇼핑뉴스",
+                            "brandNm": "컨버스",
+                            "genreNm": "해외패션",
+                            "link": "/cms12/test.txt",
+                            "contentDtlCd": "01",
+                            "imgUrl2": "/cms12/test.jpg",
+                            "storeNm": "강남점",
+                            "viewNm": "백화점",
+                            "floorNm": "4층",
+                            "expDt": "2026.09.03 - 2026.09.13",
+                        }
+                    ]
+                }
+            }
+        )
+        items = parse_shinsegae_shopping_json(page, "강남점")
+        self.assertEqual(len(items), 1)
+        self.assertIn("fashion", items[0]["topics"])
+        self.assertIn("pageLink=%2Fcms12%2Ftest.txt", items[0]["sourceUrl"])
+
+    def test_lotte_branch_parser_excludes_shopping_malls(self):
+        page = """
+        <a onclick='changeCstrInfo({"cstrCd":"0339","cstrDspNm":"파주점","cstrLrclsCd":"C00130"})'>파주</a>
+        <a onclick='changeCstrInfo({"cstrCd":"0405","cstrDspNm":"수지점","cstrLrclsCd":"C00120"})'>수지</a>
+        """
+        self.assertEqual(parse_lotte_branches(page), {"0339": "파주점"})
 
 
 if __name__ == "__main__":
