@@ -1,28 +1,30 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-25T23:57:30Z",
+  "updatedAt": "2026-09-26T23:38:58Z",
   "sourceNotice": "롯데·현대·신세계 공식 쇼핑뉴스를 매일 확인합니다. 각 카드를 눌러 지점·기간·제외 품목 등 최종 조건을 확인하세요.",
   "sources": {
     "hyundai": {
       "ok": true,
       "count": 9,
-      "checkedAt": "2026-09-25T23:57:30Z",
+      "checkedAt": "2026-09-26T23:38:58Z",
       "url": "https://ehyundai.com/newPortal/EV/EV000001_L.do?page=1",
-      "fashionCount": 158
+      "fashionCount": 163
     },
     "lotte": {
-      "ok": true,
-      "count": 45,
-      "checkedAt": "2026-09-25T23:57:30Z",
+      "ok": false,
+      "count": 295,
+      "checkedAt": "2026-09-26T23:38:58Z",
       "url": "https://www.lotteshopping.com/shopnow/cntsList?cstrCd=0005",
-      "fashionCount": 260
+      "message": "Command '['curl', '--location', '--compressed', '--fail', '--silent', '--show-error', '--max-time', '35', '--user-agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/126.0.0.0 Safari/537.36', '--header', 'Acce",
+      "fashionCount": 260,
+      "fashionMessage": "지점별 패션 쇼핑뉴스를 찾지 못했습니다"
     },
     "shinsegae": {
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-09-25T23:57:30Z",
+      "checkedAt": "2026-09-26T23:38:58Z",
       "url": "https://deptmapp.shinsegae.com/shopping/event/list.do",
-      "fashionCount": 222
+      "fashionCount": 223
     }
   },
   "items": [
@@ -31,7 +33,7 @@
       "brand": "hyundai",
       "category": "discount",
       "title": "[ 나이키 팩토리 스토어 ] 9월 스페셜 프로모션",
-      "summary": "2개 이상 구매시 추가 30% 할인 · 전 제품 추가 15% 할인",
+      "summary": "현대백화점 현대아울렛 SPACE1 공식 쇼핑뉴스",
       "location": "현대아울렛 SPACE1 · 나이키 팩토리",
       "period": "2026.09.24 ~ 2026.09.30",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7802609505788&category=event&page=1&branchCd=B00178000",
@@ -46,7 +48,7 @@
       "brand": "hyundai",
       "category": "discount",
       "title": "[ 아디다스 퍼포먼스/ 오리지널] 프로모션",
-      "summary": "2개 구매시 전 제품 추가 30% 할인",
+      "summary": "현대백화점 현대아울렛 SPACE1 공식 쇼핑뉴스",
       "location": "현대아울렛 SPACE1 · 퍼포먼스/오리지널",
       "period": "2026.09.18 ~ 2026.10.05",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7802609505705&category=event&page=1&branchCd=B00178000",
@@ -61,41 +63,11 @@
       "brand": "hyundai",
       "category": "discount",
       "title": "[나이키 팩토리스토어] 추석 프로모션",
-      "summary": "15% 추가 할인 · 30% 추가 할인",
+      "summary": "현대백화점 현대아울렛 대전점 공식 쇼핑뉴스",
       "location": "현대아울렛 대전점 · 본매장",
       "period": "2026.09.24 ~ 2026.09.30",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7702609506005&category=event&page=1&branchCd=B00177000",
       "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202609/22/55f8bcaa-2ae4-4314-aa74-b1f2252a9153.jpg",
-      "topics": [
-        "fashion",
-        "nike"
-      ]
-    },
-    {
-      "id": "hyundai-E7902609505896",
-      "brand": "hyundai",
-      "category": "discount",
-      "title": "나이키 HOLIDAY BIG CHANCE",
-      "summary": "10% 할인 · ※ Hpoint 회원 추가 5% 할인, 일부 품목 제외",
-      "location": "커넥트현대 청주 · 본매장",
-      "period": "2026.09.24 ~ 2026.09.30",
-      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7902609505896&category=event&page=1&branchCd=B00179000",
-      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202507/17/513093d7-4adc-4d65-8715-d66c380572ea.jpg",
-      "topics": [
-        "fashion",
-        "nike"
-      ]
-    },
-    {
-      "id": "hyundai-E7902609505900",
-      "brand": "hyundai",
-      "category": "discount",
-      "title": "나이키 HOLIDAY BIG CHANCE",
-      "summary": "10% 할인 · ※ Hpoint 회원 추가 5% 할인, 일부 품목 제외",
-      "location": "커넥트현대 청주 · 본매장",
-      "period": "2026.09.24 ~ 2026.09.30",
-      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7902609505900&category=event&page=1&branchCd=B00179000",
-      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202507/17/513093d7-4adc-4d65-8715-d66c380572ea.jpg",
       "topics": [
         "fashion",
         "nike"
@@ -117,41 +89,11 @@
       ]
     },
     {
-      "id": "hyundai-E4702609505454",
-      "brand": "hyundai",
-      "category": "discount",
-      "title": "나이키 런클럽 in 현대백화점 충청점",
-      "summary": "① 현대백화점 충청점 나이키 매장 20% 할인 ② 나이키 러닝화 트라이얼 (체험) 서비스 ③ 물, 간식 제공",
-      "location": "충청점",
-      "period": "",
-      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4702609505454&category=event&page=1&branchCd=B00147000",
-      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202604/30/909891e7-dac6-475d-832e-192ae22d0e1e.jpg",
-      "topics": [
-        "fashion",
-        "nike"
-      ]
-    },
-    {
-      "id": "hyundai-E7202609505408",
-      "brand": "hyundai",
-      "category": "discount",
-      "title": "나이키 스페셜 팝업",
-      "summary": "- 추가할인 적용조건이 있으니 현장 확인 부탁드립니다.",
-      "location": "현대아울렛 김포점 · 메종드H (디즈니스토어 옆)",
-      "period": "2026.09.23 ~ 2026.10.01",
-      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7202609505408&category=event&page=1&branchCd=B00172000",
-      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202609/19/47842088-2293-48aa-8679-dbafd602361c.jpg",
-      "topics": [
-        "fashion",
-        "nike"
-      ]
-    },
-    {
       "id": "hyundai-E7102609505418",
       "brand": "hyundai",
       "category": "discount",
       "title": "나이키팩토리 스토어 스페셜 프로모션",
-      "summary": "+ 15% · + 30%",
+      "summary": "현대백화점 현대아울렛 가산점 공식 쇼핑뉴스",
       "location": "현대아울렛 가산점 · 본매장",
       "period": "2026.09.24 ~ 2026.09.30",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7102609505418&category=event&page=1&branchCd=B00171000",
@@ -166,7 +108,7 @@
       "brand": "hyundai",
       "category": "discount",
       "title": "아디다스 SUPER SALE",
-      "summary": "25SS ~ 26SS 상품 최대 70% OFF · 스포티한 스타일부터 키즈 룩까지. 특별한 혜택과 함께 아디다스를 만나보세요.",
+      "summary": "현대백화점 충청점 공식 쇼핑뉴스",
       "location": "충청점 · 팝업 스튜디오",
       "period": "2026.09.26 ~ 2026.09.30",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4702609505232&category=event&page=1&branchCd=B00147000",
@@ -181,7 +123,7 @@
       "brand": "hyundai",
       "category": "discount",
       "title": "아디다스 리뉴얼 오픈 & 천호점 특가 제안",
-      "summary": "9월 매주 균일가 특가 (9.3~ 9.27) + 천호점 쇼핑 지원금 5천원 지원 · * ex) 아디다스 2만원 상품 > 천호점 5천원 추가 할인 = 최종 15,000원",
+      "summary": "현대백화점 천호점 공식 쇼핑뉴스",
       "location": "천호점 · 해당 매장",
       "period": "",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E2602609504994&category=event&page=1&branchCd=B00126000",
@@ -196,7 +138,7 @@
       "brand": "hyundai",
       "category": "discount",
       "title": "아디다스& 진·스포츠 대전 UP TO 70%",
-      "summary": "진 ·스포츠 대전 '아디다스', '노스페이스화이트라벨', '게스' 연합 대전 해당 브랜드 인기상품을 최대 70% 할인 진행합니다 · 30~70% 할인",
+      "summary": "현대백화점 더현대 대구 공식 쇼핑뉴스",
       "location": "더현대 대구 · 이벤트 플라자",
       "period": "2026.09.26 ~ 2026.10.01",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4602609505417&category=event&page=1&branchCd=B00146000",
@@ -211,7 +153,7 @@
       "brand": "hyundai",
       "category": "discount",
       "title": "아디다스/뉴발란스/ 언더아머 프로모션",
-      "summary": "30% 추가 할인 · 20/30% 추가 할인",
+      "summary": "현대백화점 현대아울렛 송도점 공식 쇼핑뉴스",
       "location": "현대아울렛 송도점",
       "period": "",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7402609504425&category=event&page=1&branchCd=B00174000",
@@ -226,7 +168,7 @@
       "brand": "hyundai",
       "category": "discount",
       "title": "아디다스팩토리 9월 프로모션",
-      "summary": "2개 제품 구매 시 30% 추가 할인 · 초대형 아디다스 팩토리 매장에서 상시 30~50% 할인된 합리적인 가격으로 더 많은 상품을 할인 혜택과 함께 만나보세요.",
+      "summary": "현대백화점 현대아울렛 가산점 공식 쇼핑뉴스",
       "location": "현대아울렛 가산점 · 지하 1층 본매장",
       "period": "2026.09.24 ~ 2026.10.05",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7102609505614&category=event&page=1&branchCd=B00171000",
@@ -898,15 +840,90 @@
       ]
     },
     {
+      "id": "hyundai-E7902609505896",
+      "brand": "hyundai",
+      "category": "shopping",
+      "title": "나이키 HOLIDAY BIG CHANCE",
+      "summary": "현대백화점 커넥트현대 청주 공식 쇼핑뉴스",
+      "location": "커넥트현대 청주 · 본매장",
+      "period": "2026.09.24 ~ 2026.09.30",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7902609505896&category=event&page=1&branchCd=B00179000",
+      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202507/17/513093d7-4adc-4d65-8715-d66c380572ea.jpg",
+      "topics": [
+        "fashion",
+        "nike"
+      ]
+    },
+    {
+      "id": "hyundai-E7902609505900",
+      "brand": "hyundai",
+      "category": "shopping",
+      "title": "나이키 HOLIDAY BIG CHANCE",
+      "summary": "현대백화점 커넥트현대 청주 공식 쇼핑뉴스",
+      "location": "커넥트현대 청주 · 본매장",
+      "period": "2026.09.24 ~ 2026.09.30",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7902609505900&category=event&page=1&branchCd=B00179000",
+      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202507/17/513093d7-4adc-4d65-8715-d66c380572ea.jpg",
+      "topics": [
+        "fashion",
+        "nike"
+      ]
+    },
+    {
+      "id": "hyundai-E4702609505454",
+      "brand": "hyundai",
+      "category": "shopping",
+      "title": "나이키 런클럽 in 현대백화점 충청점",
+      "summary": "현대백화점 충청점 공식 쇼핑뉴스",
+      "location": "충청점",
+      "period": "",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4702609505454&category=event&page=1&branchCd=B00147000",
+      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202604/30/909891e7-dac6-475d-832e-192ae22d0e1e.jpg",
+      "topics": [
+        "fashion",
+        "nike"
+      ]
+    },
+    {
       "id": "hyundai-E2602609504990",
       "brand": "hyundai",
       "category": "shopping",
       "title": "나이키 리뉴얼 오픈 & 인기 상품 제안",
-      "summary": "[리뉴얼 오픈 프로모션]",
+      "summary": "현대백화점 천호점 공식 쇼핑뉴스",
       "location": "천호점 · 해당 매장",
       "period": "",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E2602609504990&category=event&page=1&branchCd=B00126000",
       "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202608/27/a8408c69-4e5d-483b-b3f2-0cead4dae05d.jpg",
+      "topics": [
+        "fashion",
+        "nike"
+      ]
+    },
+    {
+      "id": "hyundai-E7402609505271",
+      "brand": "hyundai",
+      "category": "shopping",
+      "title": "나이키 쇼핑 찬스",
+      "summary": "현대백화점 현대아울렛 송도점 공식 쇼핑뉴스",
+      "location": "현대아울렛 송도점 · 본매장",
+      "period": "2026.09.24 ~ 2026.09.30",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7402609505271&category=event&page=1&branchCd=B00174000",
+      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202609/18/414d9d81-bc0c-47eb-adfd-6be6bd890aad.jpg",
+      "topics": [
+        "fashion",
+        "nike"
+      ]
+    },
+    {
+      "id": "hyundai-E7202609505408",
+      "brand": "hyundai",
+      "category": "shopping",
+      "title": "나이키 스페셜 팝업",
+      "summary": "현대백화점 현대아울렛 김포점 공식 쇼핑뉴스",
+      "location": "현대아울렛 김포점 · 메종드H (디즈니스토어 옆)",
+      "period": "2026.09.23 ~ 2026.10.01",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7202609505408&category=event&page=1&branchCd=B00172000",
+      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202609/19/47842088-2293-48aa-8679-dbafd602361c.jpg",
       "topics": [
         "fashion",
         "nike"
@@ -1417,6 +1434,20 @@
       ]
     },
     {
+      "id": "hyundai-E7402609505850",
+      "brand": "hyundai",
+      "category": "discount",
+      "title": "라코스테 FW 특가전 UP TO 60% OFF",
+      "summary": "현대백화점 현대아울렛 송도점 공식 쇼핑뉴스",
+      "location": "현대아울렛 송도점 · 야외 행사장(스타벅스 앞)",
+      "period": "2026.09.24 ~ 2026.10.01",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7402609505850&category=event&page=1&branchCd=B00174000",
+      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202608/29/3ec79596-84bb-4cd8-a9f5-3a11e5ec5991.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
       "id": "hyundai-E2402609501781",
       "brand": "hyundai",
       "category": "discount",
@@ -1697,6 +1728,20 @@
       ]
     },
     {
+      "id": "hyundai-E7402609505853",
+      "brand": "hyundai",
+      "category": "discount",
+      "title": "올젠/앤드지 FW 특가전 최대 80% 할인",
+      "summary": "현대백화점 현대아울렛 송도점 공식 쇼핑뉴스",
+      "location": "현대아울렛 송도점 · 행사장(폴로 옆)",
+      "period": "2026.09.24 ~ 2026.10.01",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7402609505853&category=event&page=1&branchCd=B00174000",
+      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202609/15/bf86e51e-c303-40d3-b79c-c829669eee77.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
       "id": "hyundai-E4302609503428",
       "brand": "hyundai",
       "category": "discount",
@@ -1711,6 +1756,20 @@
       ]
     },
     {
+      "id": "hyundai-E7402609505862",
+      "brand": "hyundai",
+      "category": "discount",
+      "title": "진도모피 패밀리세일 UP TO 70% OFF",
+      "summary": "현대백화점 현대아울렛 송도점 공식 쇼핑뉴스",
+      "location": "현대아울렛 송도점 · 행사장(코스메틱클럽 옆)",
+      "period": "2026.09.24 ~ 2026.10.01",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7402609505862&category=event&page=1&branchCd=B00174000",
+      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202609/15/9e3d6d96-971a-40eb-a74a-9710f4b68b8b.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
       "id": "hyundai-E4602609505320",
       "brand": "hyundai",
       "category": "discount",
@@ -1720,6 +1779,20 @@
       "period": "2026.09.26 ~ 2026.10.01",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4602609505320&category=event&page=1&branchCd=B00146000",
       "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202601/20/9423ff08-6446-4b0b-9352-7d9a550c9816_02.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "hyundai-E7402609505724",
+      "brand": "hyundai",
+      "category": "discount",
+      "title": "챌린저 골프 UP TO 70%",
+      "summary": "현대백화점 현대아울렛 송도점 공식 쇼핑뉴스",
+      "location": "현대아울렛 송도점 · 행사장(테일러메이드 옆)",
+      "period": "2026.09.24 ~ 2026.10.01",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7402609505724&category=event&page=1&branchCd=B00174000",
+      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202608/14/a0233775-d687-49b7-8e73-b0c8581b5653.jpg",
       "topics": [
         "fashion"
       ]
@@ -1776,6 +1849,20 @@
       "period": "2026.09.21 ~ 2026.09.27",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4202609505803&category=event&page=1&branchCd=B00142000",
       "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202609/21/f9d9f175-85f6-4cdb-aa91-25cf14aa88bd.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "hyundai-E7402609505868",
+      "brand": "hyundai",
+      "category": "discount",
+      "title": "프리미엄 해외패션 브랜드 F/W 특가전",
+      "summary": "현대백화점 현대아울렛 송도점 공식 쇼핑뉴스",
+      "location": "현대아울렛 송도점 · 행사장(코스메틱클럽 옆)",
+      "period": "2026.09.24 ~ 2026.10.01",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7402609505868&category=event&page=1&branchCd=B00174000",
+      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202609/21/0ed07b3d-13eb-4aeb-a5bf-b4d3637a0b52.jpg",
       "topics": [
         "fashion"
       ]
@@ -3643,6 +3730,20 @@
       ]
     },
     {
+      "id": "shinsegae-shopping-SC00013-8644540",
+      "brand": "shinsegae",
+      "category": "discount",
+      "title": "스포츠크루 런&리워드",
+      "summary": "리워드이벤트 · 신세계 공식 쇼핑정보",
+      "location": "대구점 · 7층 · 사은행사장",
+      "period": "26.09.26(토) - 26.10.05(월)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=04&pageLink=%2Fcms12%2FSC00007%2Finfo%2Fevent%2Fgiftcard%2F8644540_4539.txt&contentDtlCd=03&contentId=8644540&storeCd=SC00013&brandCd=",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00007/info/event/giftcard/__icsFiles/afieldfile/2026/09/21/1.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
       "id": "shinsegae-shopping-SC00002-8302045",
       "brand": "shinsegae",
       "category": "discount",
@@ -3862,20 +3963,6 @@
       "period": "2026.09.21 ~ 2026.10.01",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7202609505750&category=event&page=1&branchCd=B00172000",
       "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202609/16/ae3e0f04-89fe-456b-b002-3f29106abc63_02.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
-      "id": "hyundai-E7402609503919",
-      "brand": "hyundai",
-      "category": "shopping",
-      "title": "LF패션 패밀리 슈퍼위크 더블 마일리지",
-      "summary": "현대백화점 현대아울렛 송도점 공식 쇼핑뉴스",
-      "location": "현대아울렛 송도점 · 본매장",
-      "period": "2026.09.18 ~ 2026.09.27",
-      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7402609503919&category=event&page=1&branchCd=B00174000",
-      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202607/02/5403e44d-042f-44b4-a5cb-92946bc96199_02.png",
       "topics": [
         "fashion"
       ]
@@ -6709,20 +6796,6 @@
       ]
     },
     {
-      "id": "shinsegae-shopping-SC00007-8631009",
-      "brand": "shinsegae",
-      "category": "shopping",
-      "title": "[골든듀] Autumn Moment",
-      "summary": "골든듀 · 골든듀 · 신세계 공식 쇼핑정보",
-      "location": "사우스시티 · 백화점 · 1층",
-      "period": "2026.09.11(금) - 2026.09.27(일)",
-      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00007%2Finfo%2Fshopping%2Fbrndsingle%2F8631009_4534.txt&contentDtlCd=01&contentId=8631009&storeCd=SC00007&brandCd=UB0000092",
-      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00007/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/08/aKe3UmOfMhvF.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "shinsegae-shopping-SC00011-8626240",
       "brand": "shinsegae",
       "category": "shopping",
@@ -6732,6 +6805,20 @@
       "period": "2026.09.18(금) - 2026.09.27(일)",
       "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00011%2Finfo%2Fshopping%2Fbrndsingle%2F8626240_4617.txt&contentDtlCd=01&contentId=8626240&storeCd=SC00011&brandCd=UB0000092",
       "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00011/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/14/xli5J16mnQ77.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "shinsegae-shopping-SC00007-8631009",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[골든듀] Autumn Moment",
+      "summary": "골든듀 · 골든듀 · 신세계 공식 쇼핑정보",
+      "location": "사우스시티 · 백화점 · 1층",
+      "period": "2026.09.11(금) - 2026.09.27(일)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00007%2Finfo%2Fshopping%2Fbrndsingle%2F8631009_4534.txt&contentDtlCd=01&contentId=8631009&storeCd=SC00007&brandCd=UB0000092",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00007/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/08/aKe3UmOfMhvF.jpg",
       "topics": [
         "fashion"
       ]
@@ -6751,20 +6838,6 @@
       ]
     },
     {
-      "id": "shinsegae-shopping-SC00012-8626798",
-      "brand": "shinsegae",
-      "category": "shopping",
-      "title": "[골든듀] Autumn Moment",
-      "summary": "골든듀 · 골든듀 · 신세계 공식 쇼핑정보",
-      "location": "하남점 · 백화점 · 2층",
-      "period": "2026.09.11(금) - 2026.09.27(일)",
-      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00012%2Finfo%2Fshopping%2Fbrndsingle%2F8626798_4637.txt&contentDtlCd=01&contentId=8626798&storeCd=SC00012&brandCd=UB0000092",
-      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00012/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/01/L6eaqk2i3jH1.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "shinsegae-shopping-SC00009-8630323",
       "brand": "shinsegae",
       "category": "shopping",
@@ -6774,6 +6847,20 @@
       "period": "2026.09.18(금) - 2026.09.27(일)",
       "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00009%2Finfo%2Fshopping%2Fbrndsingle%2F8630323_4573.txt&contentDtlCd=01&contentId=8630323&storeCd=SC00009&brandCd=UB0000092",
       "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00009/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/17/0915_golden-20260917020300-20260917020301_1.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "shinsegae-shopping-SC00012-8626798",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[골든듀] Autumn Moment",
+      "summary": "골든듀 · 골든듀 · 신세계 공식 쇼핑정보",
+      "location": "하남점 · 백화점 · 2층",
+      "period": "2026.09.11(금) - 2026.09.27(일)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00012%2Finfo%2Fshopping%2Fbrndsingle%2F8626798_4637.txt&contentDtlCd=01&contentId=8626798&storeCd=SC00012&brandCd=UB0000092",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00012/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/01/L6eaqk2i3jH1.jpg",
       "topics": [
         "fashion"
       ]
@@ -7633,20 +7720,6 @@
       ]
     },
     {
-      "id": "shinsegae-shopping-SC00012-8623830",
-      "brand": "shinsegae",
-      "category": "shopping",
-      "title": "[바비브라운] 신상품 제안",
-      "summary": "바비브라운 · 바비브라운 · 신세계 공식 쇼핑정보",
-      "location": "하남점 · 백화점 · 2층",
-      "period": "2026.09.01(화) - 2026.09.30(수)",
-      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00012%2Finfo%2Fshopping%2Fbrndsingle%2F8623830_4637.txt&contentDtlCd=01&contentId=8623830&storeCd=SC00012&brandCd=UB0000473",
-      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00012/info/shopping/brndsingle/__icsFiles/afieldfile/2026/08/29/HSuyo4hZReKv.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "shinsegae-shopping-SC00008-8643403",
       "brand": "shinsegae",
       "category": "shopping",
@@ -7656,6 +7729,20 @@
       "period": "2026.09.25(금) - 2026.10.01(목)",
       "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00008%2Finfo%2Fshopping%2Fbrndsingle%2F8643403_4553.txt&contentDtlCd=01&contentId=8643403&storeCd=SC00008&brandCd=UB0000473",
       "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00008/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/23/0ZSklynXNHTJ.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "shinsegae-shopping-SC00012-8623830",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[바비브라운] 신상품 제안",
+      "summary": "바비브라운 · 바비브라운 · 신세계 공식 쇼핑정보",
+      "location": "하남점 · 백화점 · 2층",
+      "period": "2026.09.01(화) - 2026.09.30(수)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00012%2Finfo%2Fshopping%2Fbrndsingle%2F8623830_4637.txt&contentDtlCd=01&contentId=8623830&storeCd=SC00012&brandCd=UB0000473",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00012/info/shopping/brndsingle/__icsFiles/afieldfile/2026/08/29/HSuyo4hZReKv.jpg",
       "topics": [
         "fashion"
       ]
@@ -7899,20 +7986,6 @@
       ]
     },
     {
-      "id": "shinsegae-shopping-SC00007-8637354",
-      "brand": "shinsegae",
-      "category": "shopping",
-      "title": "[스와로브스키] 신상품 제안",
-      "summary": "스와로브스키 · 스와로브스키 · 신세계 공식 쇼핑정보",
-      "location": "사우스시티 · 백화점 · 1층",
-      "period": "2026.09.11(금) - 2026.09.30(수)",
-      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00007%2Finfo%2Fshopping%2Fbrndsingle%2F8637354_4534.txt&contentDtlCd=01&contentId=8637354&storeCd=SC00007&brandCd=UB0000705",
-      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00007/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/10/Capture-20260910032358-20260910032400_5.JPG",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "shinsegae-shopping-SC00011-8643053",
       "brand": "shinsegae",
       "category": "shopping",
@@ -7922,6 +7995,20 @@
       "period": "2026.09.25(금) - 2026.10.01(목)",
       "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00011%2Finfo%2Fshopping%2Fbrndsingle%2F8643053_4617.txt&contentDtlCd=01&contentId=8643053&storeCd=SC00011&brandCd=UB0000705",
       "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00011/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/23/sP4lAt0IKOOm.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "shinsegae-shopping-SC00007-8637354",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[스와로브스키] 신상품 제안",
+      "summary": "스와로브스키 · 스와로브스키 · 신세계 공식 쇼핑정보",
+      "location": "사우스시티 · 백화점 · 1층",
+      "period": "2026.09.11(금) - 2026.09.30(수)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00007%2Finfo%2Fshopping%2Fbrndsingle%2F8637354_4534.txt&contentDtlCd=01&contentId=8637354&storeCd=SC00007&brandCd=UB0000705",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00007/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/10/Capture-20260910032358-20260910032400_5.JPG",
       "topics": [
         "fashion"
       ]
@@ -8767,20 +8854,6 @@
       ]
     },
     {
-      "id": "shinsegae-shopping-SC00007-8633934",
-      "brand": "shinsegae",
-      "category": "shopping",
-      "title": "[페라가모] F/W 뉴 컬렉션",
-      "summary": "페라가모 · 페라가모 · 신세계 공식 쇼핑정보",
-      "location": "사우스시티 · 백화점 · 지하1층",
-      "period": "2026.09.11(금) - 2026.09.27(일)",
-      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00007%2Finfo%2Fshopping%2Fbrndsingle%2F8633934_4534.txt&contentDtlCd=01&contentId=8633934&storeCd=SC00007&brandCd=UB0001233",
-      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00007/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/07/JjJuNpkc0z15.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "shinsegae-shopping-SC00060-8635169",
       "brand": "shinsegae",
       "category": "shopping",
@@ -8790,6 +8863,20 @@
       "period": "2026.09.11(금) - 2026.09.27(일)",
       "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00060%2Finfo%2Fshopping%2Fbrndsingle%2F8635169_5321.txt&contentDtlCd=01&contentId=8635169&storeCd=SC00060&brandCd=UB0001233",
       "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00060/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/09/NRzgIMKYlZW0.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "shinsegae-shopping-SC00007-8633934",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[페라가모] F/W 뉴 컬렉션",
+      "summary": "페라가모 · 페라가모 · 신세계 공식 쇼핑정보",
+      "location": "사우스시티 · 백화점 · 지하1층",
+      "period": "2026.09.11(금) - 2026.09.27(일)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00007%2Finfo%2Fshopping%2Fbrndsingle%2F8633934_4534.txt&contentDtlCd=01&contentId=8633934&storeCd=SC00007&brandCd=UB0001233",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00007/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/07/JjJuNpkc0z15.jpg",
       "topics": [
         "fashion"
       ]
