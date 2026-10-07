@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-06T01:46:16Z",
+  "updatedAt": "2026-10-07T00:45:26Z",
   "sourceNotice": "롯데·현대·신세계 공식 쇼핑뉴스를 매일 확인합니다. 각 카드를 눌러 지점·기간·제외 품목 등 최종 조건을 확인하세요.",
   "sources": {
     "hyundai": {
       "ok": true,
       "count": 9,
-      "checkedAt": "2026-10-06T01:46:16Z",
+      "checkedAt": "2026-10-07T00:45:26Z",
       "url": "https://ehyundai.com/newPortal/EV/EV000001_L.do?page=1",
-      "fashionCount": 138
+      "fashionCount": 137
     },
     "lotte": {
       "ok": true,
       "count": 32,
-      "checkedAt": "2026-10-06T01:46:16Z",
+      "checkedAt": "2026-10-07T00:45:26Z",
       "url": "https://www.lotteshopping.com/shopnow/cntsList?cstrCd=0005",
-      "fashionCount": 202
+      "fashionCount": 206
     },
     "shinsegae": {
       "ok": true,
       "count": 4,
-      "checkedAt": "2026-10-06T01:46:16Z",
+      "checkedAt": "2026-10-07T00:45:26Z",
       "url": "https://deptmapp.shinsegae.com/shopping/event/list.do",
-      "fashionCount": 267
+      "fashionCount": 276
     }
   },
   "items": [
@@ -151,7 +151,7 @@
       "brand": "hyundai",
       "category": "discount",
       "title": "나이키스윔 남성 실내 수영복 특가",
-      "summary": "타미힐피거 초특가전 UP TO 80% · 아디다스 인기 상품 UP TO 70%",
+      "summary": "영패션 인기 상품전 최대 70% · 빈폴종합관 가을·겨울 상품 시즌 오프 + 금액 할인",
       "location": "현대아울렛 대구점 · 해당 매장",
       "period": "2026.10.01 ~ 2026.10.14",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7602609507195&category=event&page=1&branchCd=B00176000",
@@ -177,41 +177,11 @@
       ]
     },
     {
-      "id": "hyundai-E2402610507562",
-      "brand": "hyundai",
-      "category": "discount",
-      "title": "아디다스 & 젝시믹스 특가 상품 제안",
-      "summary": "아디다스 & 젝시믹스 특가 상품 제안 · 씰리침대 최대 할인전",
-      "location": "커넥트현대 부산 · 행사장",
-      "period": "2026.10.02 ~ 2026.10.06",
-      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E2402610507562&category=event&page=1&branchCd=B00124000",
-      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202609/07/42307cc3-1756-4c5c-ae33-e402549385e6.jpg",
-      "topics": [
-        "fashion",
-        "adidas"
-      ]
-    },
-    {
-      "id": "hyundai-E7602609506407",
-      "brand": "hyundai",
-      "category": "discount",
-      "title": "아디다스 인기 상품 UP TO 70%",
-      "summary": "타미힐피거 초특가전 UP TO 80% · 아디다스 인기 상품 UP TO 70%",
-      "location": "현대아울렛 대구점 · 대행사장",
-      "period": "2026.10.02 ~ 2026.10.06",
-      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7602609506407&category=event&page=1&branchCd=B00176000",
-      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202609/23/72b67bfc-1d7e-45ca-a63d-ef973c218166_02.jpg",
-      "topics": [
-        "fashion",
-        "adidas"
-      ]
-    },
-    {
       "id": "hyundai-E7302609506206",
       "brand": "hyundai",
       "category": "discount",
       "title": "아디다스 최대 70% 할인 Ⅰ",
-      "summary": "아디다스 & 젝시믹스 특가 상품 제안 · 아디다스 최대 70% 할인 Ⅱ",
+      "summary": "아디다스 최대 70% 할인 Ⅱ · 아디다스 최대 70% 할인 Ⅰ",
       "location": "현대아울렛 동대문점 · 대행사장",
       "period": "2026.10.02 ~ 2026.10.08",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7302609506206&category=event&page=1&branchCd=B00173000",
@@ -226,7 +196,7 @@
       "brand": "hyundai",
       "category": "discount",
       "title": "아디다스 최대 70% 할인 Ⅱ",
-      "summary": "아디다스 & 젝시믹스 특가 상품 제안 · 아디다스 최대 70% 할인 Ⅱ",
+      "summary": "아디다스 최대 70% 할인 Ⅱ · 아디다스 최대 70% 할인 Ⅰ",
       "location": "현대아울렛 동대문점 · 대행사장",
       "period": "2026.10.02 ~ 2026.10.08",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7302609506211&category=event&page=1&branchCd=B00173000",
@@ -297,6 +267,21 @@
       ]
     },
     {
+      "id": "lotte-SNM00000000000563227",
+      "brand": "lotte",
+      "category": "discount",
+      "title": "[나이키] 10%~30% 세일",
+      "summary": "롯데백화점 공식 행사",
+      "location": "백화점 광주점 · 5F 본매장",
+      "period": "10.1(목) ~ 10.11(일)",
+      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000563227&ch=shopnow",
+      "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/20260929180856541_6.jpeg",
+      "topics": [
+        "fashion",
+        "nike"
+      ]
+    },
+    {
       "id": "lotte-SNM00000000000562914",
       "brand": "lotte",
       "category": "discount",
@@ -316,26 +301,11 @@
       "brand": "lotte",
       "category": "discount",
       "title": "[나이키] 10월 본매장 추가할인 프로모션",
-      "summary": "롯데백화점 공식 행사",
+      "summary": "▷ 전 제품 추가 20% 할인 ※ 아울렛 판매 가격 기준 ※ 일부 품목은 할인 제외될 수 있습니다 · ※ 아울렛 판매 가격 기준 ※ 일부 품목은 할인 제외될 수 있습니다",
       "location": "프리미엄 아울렛 김해점 · 신관 1F 나이키 팩토리스토어 매장",
       "period": "10.1(목) ~ 10.11(일)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000538135&ch=shopnow",
       "imageUrl": "https://minfo.lotteshopping.com/content/news/202610/SNM00000000000538135/20261001153955489_8.jpeg",
-      "topics": [
-        "fashion",
-        "nike"
-      ]
-    },
-    {
-      "id": "lotte-SNM00000000000560032",
-      "brand": "lotte",
-      "category": "discount",
-      "title": "[나이키] 26 F/W 할인 프로모션",
-      "summary": "롯데백화점 공식 행사",
-      "location": "아울렛 고양터미널점 · 4F 본매장",
-      "period": "9.26(토) ~ 10.10(토)",
-      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000560032&ch=shopnow",
-      "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/SNM00000000000560032/20260915113626180_9.jpeg",
       "topics": [
         "fashion",
         "nike"
@@ -361,7 +331,7 @@
       "brand": "lotte",
       "category": "discount",
       "title": "[나이키] Brand Day 50~10%",
-      "summary": "롯데백화점 공식 행사",
+      "summary": "이월상품 최대 50% (용품 및 일부품목 제외)",
       "location": "아울렛 광주월드컵점 · 1F 본매장",
       "period": "10.1(목) ~ 10.11(일)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000563796&ch=shopnow",
@@ -391,7 +361,7 @@
       "brand": "lotte",
       "category": "discount",
       "title": "[나이키] 신발 50~70% / 신규 다운점퍼 할인전",
-      "summary": "롯데백화점 공식 행사",
+      "summary": "한시적으로 진행되는 신발특가 프로모션으로 제품과 수량이 매일 추가입고에 따라 상이 할 수 있으며 재고가 모두 소진되면 프로모션이 조기종료될수 있으니 쇼핑에 참고 부탁드리겠습니다. 유선상으로는 거래 불가. 기타 프로모션 적용 불가. · 1F 원형광장에서 나이키 GRAND SHOPPING FESTA 기간 신발 특별 할인 행사를 진행합니다. 이월 신발 50~70% 할인!! ※ 한정 물량 소진시까지 ※ 타 할인 행사와 중복할인 불가 ※ 소개 상품 외 매일 신규 상품입고 본매장에서는 신상품 다운류 2만원 금액할인 과 의류 70% 특가전을 진행하고 있으니 많은 관심부탁드리겠습니다.",
       "location": "아울렛 부여점 · 1F 원형광장",
       "period": "10.1(목) ~ 10.11(일)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000563813&ch=shopnow",
@@ -406,7 +376,7 @@
       "brand": "lotte",
       "category": "discount",
       "title": "[나이키] 전 제품 구매시 추가 20% Off",
-      "summary": "※ 아울렛 판매 가격 기준, 품목별 할인율 상이",
+      "summary": "롯데백화점 공식 행사",
       "location": "프리미엄 아울렛 기흥점 · B2 본매장",
       "period": "10.1(목) ~ 10.11(일)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000471795&ch=shopnow",
@@ -496,7 +466,7 @@
       "brand": "lotte",
       "category": "discount",
       "title": "[나이키] 추가 할인 프로모션",
-      "summary": "* 모자/용품 포함 * 40% 이상 특가 상품 및 일부 품목 제외",
+      "summary": "롯데백화점 공식 행사",
       "location": "프리미엄 아울렛 의왕점 · GF 나이키 본매장",
       "period": "10.1(목) ~ 10.11(일)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000563437&ch=shopnow",
@@ -632,7 +602,7 @@
       "brand": "lotte",
       "category": "discount",
       "title": "[아디다스골프] 코드케이오스27 10% SALE",
-      "summary": "롯데백화점 공식 행사",
+      "summary": "아디다스골프 30~10% SALE(일부품목 제외) · 코드케이오스 신발 구매시 양말 증정",
       "location": "백화점 중동점 · 7F 본매장",
       "period": "10.1(목) ~ 10.11(일)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000563126&ch=shopnow",
@@ -647,26 +617,11 @@
       "brand": "lotte",
       "category": "discount",
       "title": "[패션] [나이키] 얼리버드 프로모션",
-      "summary": "롯데백화점 공식 행사",
+      "summary": "다운 점퍼/베스트 구매시 2만원 할인 · 기간 : 10.2(금)~10.11(일), 일부품목제외 다운 점퍼/베스트 구매시 2만원 할인",
       "location": "백화점 안산점 · 본관 6F 본매장",
       "period": "10.2(금) ~ 10.11(일)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000563587&ch=shopnow",
       "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/20260930153737260_0.jpeg",
-      "topics": [
-        "fashion",
-        "nike"
-      ]
-    },
-    {
-      "id": "lotte-SNM00000000000563227",
-      "brand": "lotte",
-      "category": "discount",
-      "title": "나이키 10%~30% 세일",
-      "summary": "롯데백화점 공식 행사",
-      "location": "백화점 광주점 · 5F 본매장",
-      "period": "10.1(목) ~ 10.11(일)",
-      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000563227&ch=shopnow",
-      "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/20260929180856541_6.jpeg",
       "topics": [
         "fashion",
         "nike"
@@ -1102,20 +1057,6 @@
       ]
     },
     {
-      "id": "hyundai-E2402609507159",
-      "brand": "hyundai",
-      "category": "discount",
-      "title": "[프라이스나우] 의류 / 슈즈 / 리빙 초특가전",
-      "summary": "현대백화점 커넥트현대 부산 공식 쇼핑뉴스",
-      "location": "커넥트현대 부산 · 행사장",
-      "period": "2026.10.02 ~ 2026.10.06",
-      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E2402609507159&category=event&page=1&branchCd=B00124000",
-      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202512/02/acd600af-ab3f-4d6d-813a-63346b44e969.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "hyundai-E7802609507233",
       "brand": "hyundai",
       "category": "discount",
@@ -1125,6 +1066,20 @@
       "period": "2026.10.02 ~ 2026.10.08",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7802609507233&category=event&page=1&branchCd=B00178000",
       "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202609/16/af06922b-8fc8-48b3-97a1-5133e87150b1.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "hyundai-E7902610507754",
+      "brand": "hyundai",
+      "category": "discount",
+      "title": "가을맞이 영캐주얼 특가전",
+      "summary": "현대백화점 커넥트현대 청주 공식 쇼핑뉴스",
+      "location": "커넥트현대 청주 · 팝업스테이지",
+      "period": "2026.10.02 ~ 2026.10.08",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7902610507754&category=event&page=1&branchCd=B00179000",
+      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202601/03/93156d5e-d17d-4f5d-8c5f-b4abf723992e.jpg",
       "topics": [
         "fashion"
       ]
@@ -1242,6 +1197,20 @@
       ]
     },
     {
+      "id": "hyundai-E7902609507366",
+      "brand": "hyundai",
+      "category": "discount",
+      "title": "아웃도어 가을 맞이 특가전 최대 70% OFF",
+      "summary": "현대백화점 커넥트현대 청주 공식 쇼핑뉴스",
+      "location": "커넥트현대 청주 · G층 정문 앞 야외 행사장",
+      "period": "2026.10.02 ~ 2026.10.08",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7902609507366&category=event&page=1&branchCd=B00179000",
+      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202609/30/22aa7260-5432-484b-94c0-a26175208dea.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
       "id": "hyundai-E1102609507070",
       "brand": "hyundai",
       "category": "discount",
@@ -1293,20 +1262,6 @@
       "period": "2026.10.05 ~ 2026.10.08",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E2402609507516&category=event&page=1&branchCd=B00124000",
       "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202609/03/5e0250a2-5b26-4a4b-b94c-ea1a6b7021ae.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
-      "id": "hyundai-E7502609506533",
-      "brand": "hyundai",
-      "category": "discount",
-      "title": "여성캐주얼 가을 특가 제안 UP TO 80%",
-      "summary": "현대백화점 현대아울렛 가든파이브점 공식 쇼핑뉴스",
-      "location": "현대아울렛 가든파이브점 · 아울렛관 1층 대행사장",
-      "period": "2026.10.02 ~ 2026.10.06",
-      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7502609506533&category=event&page=1&branchCd=B00175000",
-      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202609/02/51872627-6c99-4c3b-b974-92425900bd07.jpg",
       "topics": [
         "fashion"
       ]
@@ -1578,20 +1533,6 @@
       ]
     },
     {
-      "id": "lotte-THK00000000000120003",
-      "brand": "lotte",
-      "category": "discount",
-      "title": "[골프] 대상브랜드 단일 5% 사은",
-      "summary": "롯데백화점 공식 행사",
-      "location": "일부 지점 · 모바일 참여",
-      "period": "10.9(금) ~ 10.11(일)",
-      "sourceUrl": "https://www.lotteshopping.com/thku/thkuDetail?thkuNo=THK00000000000120003&ch=shopnow",
-      "imageUrl": "https://minfo.lotteshopping.com/content/thku/202303/CNT00000000000013931/20230313175446657_3.png",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "lotte-SNM00000000000562175",
       "brand": "lotte",
       "category": "discount",
@@ -1847,7 +1788,7 @@
       "id": "lotte-SNM00000000000562165",
       "brand": "lotte",
       "category": "discount",
-      "title": "[닥스]슈즈 99천원 균일가전",
+      "title": "[닥스] 슈즈 99천원 균일가전",
       "summary": "롯데백화점 공식 행사",
       "location": "아울렛 대구율하점 · 2F 이벤트홀",
       "period": "10.1(목) ~ 10.8(목)",
@@ -2015,7 +1956,7 @@
       "id": "lotte-SNM00000000000562336",
       "brand": "lotte",
       "category": "discount",
-      "title": "[막스마라] FW 아우터 사전 구매 프로모션",
+      "title": "[막스마라] F/W 사전구매 프로모션",
       "summary": "롯데백화점 공식 행사",
       "location": "백화점 노원점 · 1F 본매장",
       "period": "10.2(금) ~ 10.11(일)",
@@ -2085,7 +2026,7 @@
       "id": "lotte-SNM00000000000562828",
       "brand": "lotte",
       "category": "discount",
-      "title": "[브렌우드·리버클래시] 가을 패션 특가",
+      "title": "[브렌우드/리버클래시] 가을 패션 특가",
       "summary": "롯데백화점 공식 행사",
       "location": "아울렛 대구율하점 · 2F 행사장",
       "period": "10.2(금) ~ 10.8(목)",
@@ -2105,6 +2046,20 @@
       "period": "10.1(목) ~ 10.7(수)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000562911&ch=shopnow",
       "imageUrl": "https://minfo.lotteshopping.com/content/news/202602/20260219113129270_8.jpeg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "lotte-SNM00000000000552284",
+      "brand": "lotte",
+      "category": "discount",
+      "title": "[삼성패션] FW New Arrival 프로모션",
+      "summary": "롯데백화점 공식 행사",
+      "location": "프리미엄 아울렛 기흥점 · 브랜드별 본매장",
+      "period": "10.9(금) ~ 10.11(일)",
+      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000552284&ch=shopnow",
+      "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/SNM00000000000552284/20260913184148173_1.jpeg",
       "topics": [
         "fashion"
       ]
@@ -2161,6 +2116,20 @@
       "period": "10.1(목) ~ 10.11(일)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000563109&ch=shopnow",
       "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/SNM00000000000563109/20260929180352127_8.jpeg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "lotte-SNM00000000000562668",
+      "brand": "lotte",
+      "category": "discount",
+      "title": "[쌤소나이트] 30~50% 특집전",
+      "summary": "롯데백화점 공식 행사",
+      "location": "백화점 광주점 · B 1F 행사장",
+      "period": "10.2(금) ~ 10.8(목)",
+      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000562668&ch=shopnow",
+      "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/20260930103903171_8.jpeg",
       "topics": [
         "fashion"
       ]
@@ -2309,7 +2278,7 @@
       "id": "lotte-SNM00000000000561187",
       "brand": "lotte",
       "category": "discount",
-      "title": "[어뉴골프]금액할인 & 7% 사은 프로모션",
+      "title": "[어뉴골프] 금액할인& 7% 사은 프로모션",
       "summary": "롯데백화점 공식 행사",
       "location": "백화점 중동점 · 7F 본매장",
       "period": "10.2(금) ~ 10.11(일)",
@@ -2385,6 +2354,20 @@
       "period": "10.3(토) ~ 10.8(목)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000448160&ch=shopnow",
       "imageUrl": "https://minfo.lotteshopping.com/content/news/202504/SNM00000000000448160/20250430152105944_0.jpeg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "lotte-SNM00000000000517776",
+      "brand": "lotte",
+      "category": "discount",
+      "title": "[웰메이드/지오지아] 가을 패션 특가",
+      "summary": "롯데백화점 공식 행사",
+      "location": "아울렛 대구율하점 · 2F 행사장",
+      "period": "10.9(금) ~ 10.15(목)",
+      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000517776&ch=shopnow",
+      "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/SNM00000000000517776/20260928192845361_0.jpeg",
       "topics": [
         "fashion"
       ]
@@ -2623,6 +2606,20 @@
       "period": "2026.09.15(화) - 2026.10.11(일)",
       "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00010%2Finfo%2Fshopping%2Fbrndsingle%2F8637768_4597.txt&contentDtlCd=01&contentId=8637768&storeCd=SC00010&brandCd=UB0000047",
       "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00010/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/13/0Yp7ea7elIzz.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "shinsegae-shopping-SC00003-8655754",
+      "brand": "shinsegae",
+      "category": "discount",
+      "title": "[MLB] 특별한 혜택을 드립니다",
+      "summary": "MLB · MLB · 신세계 공식 쇼핑정보",
+      "location": "타임스퀘어점 · 리빙관 · 지하2층",
+      "period": "2026.10.07(수) - 2026.10.31(토)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00003%2Finfo%2Fshopping%2Fbrndsingle%2F8655754_4474.txt&contentDtlCd=01&contentId=8655754&storeCd=SC00003&brandCd=UB0000047",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00003/info/shopping/brndsingle/__icsFiles/afieldfile/2026/10/06/MItd4aSvsahk.jpg",
       "topics": [
         "fashion"
       ]
@@ -3057,6 +3054,20 @@
       "period": "2026.10.02 ~ 2026.10.08",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7302609506557&category=event&page=1&branchCd=B00173000",
       "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202608/30/bb375f88-664f-4b0f-8ea0-c64151cb97d1.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "hyundai-E7902609507425",
+      "brand": "hyundai",
+      "category": "shopping",
+      "title": "K2 FW 아이템 추천",
+      "summary": "현대백화점 커넥트현대 청주 공식 쇼핑뉴스",
+      "location": "커넥트현대 청주 · 본매장",
+      "period": "2026.10.02 ~ 2026.10.08",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7902609507425&category=event&page=1&branchCd=B00179000",
+      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202609/30/d8941b25-6196-4ae0-9f58-7024e540e8c7.jpg",
       "topics": [
         "fashion"
       ]
@@ -3930,20 +3941,6 @@
       ]
     },
     {
-      "id": "lotte-SNM00000000000524321",
-      "brand": "lotte",
-      "category": "shopping",
-      "title": "10월 스포츠 Week",
-      "summary": "롯데백화점 공식 행사",
-      "location": "아울렛 대구율하점 · 2F 본매장",
-      "period": "10.1(목) ~ 10.11(일)",
-      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000524321&ch=shopnow",
-      "imageUrl": "https://minfo.lotteshopping.com/content/temp/202006/CNT00000000000008186/20200605141834414_1.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "lotte-SNM00000000000563249",
       "brand": "lotte",
       "category": "shopping",
@@ -3981,6 +3978,20 @@
       "period": "9.15(화) OPEN",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000557736&ch=shopnow",
       "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/SNM00000000000557736/20260903192818226_3.jpeg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "lotte-THK00000000000121735",
+      "brand": "lotte",
+      "category": "gift",
+      "title": "[AK골프] 모바일 사은행사",
+      "summary": "롯데백화점 공식 행사",
+      "location": "아울렛 대구율하점 · 모바일 참여",
+      "period": "10.16(금) ~ 10.18(일)",
+      "sourceUrl": "https://www.lotteshopping.com/thku/thkuDetail?thkuNo=THK00000000000121735&ch=shopnow",
+      "imageUrl": "https://minfo.lotteshopping.com/content/thku/202303/CNT00000000000013931/20230313175446657_3.png",
       "topics": [
         "fashion"
       ]
@@ -4051,20 +4062,6 @@
       "period": "10.1(목) ~ 10.31(토)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000556658&ch=shopnow",
       "imageUrl": "https://minfo.lotteshopping.com/content/news/202608/2026083116324876_4.jpeg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
-      "id": "lotte-SNM00000000000561087",
-      "brand": "lotte",
-      "category": "shopping",
-      "title": "[ETRO] MTO 캐시미어 코트 프로젝트",
-      "summary": "롯데백화점 공식 행사",
-      "location": "백화점 광주점 · 2F 본매장",
-      "period": "9.19(토) ~ 10.6(화)",
-      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000561087&ch=shopnow",
-      "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/20260919130406964_4.jpeg",
       "topics": [
         "fashion"
       ]
@@ -4213,12 +4210,26 @@
       "id": "lotte-SNM00000000000561851",
       "brand": "lotte",
       "category": "shopping",
-      "title": "[게스]'26 F/W Super Week",
+      "title": "[게스] 26 F/W Super Week",
       "summary": "롯데백화점 공식 행사",
       "location": "아울렛 고양터미널점 · 1F 행사장",
       "period": "10.1(목) ~ 10.7(수)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000561851&ch=shopnow",
       "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/SNM00000000000561851/20260926174321379_9.jpeg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "lotte-SNM00000000000563699",
+      "brand": "lotte",
+      "category": "shopping",
+      "title": "[게스] 26F/W Super Week",
+      "summary": "롯데백화점 공식 행사",
+      "location": "아울렛 고양점 · P2 탑스홀",
+      "period": "10.5(월) ~ 10.11(일)",
+      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000563699&ch=shopnow",
+      "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/20260930175158327_3.jpeg",
       "topics": [
         "fashion"
       ]
@@ -4451,7 +4462,7 @@
       "id": "lotte-SNM00000000000562919",
       "brand": "lotte",
       "category": "shopping",
-      "title": "[닥스여성]26F/W 신상품 제안",
+      "title": "[닥스여성] 26 F/W 신상품 제안",
       "summary": "롯데백화점 공식 행사",
       "location": "백화점 광주점 · 3F 본매장",
       "period": "10.1(목) ~ 10.11(일)",
@@ -4468,7 +4479,7 @@
       "title": "[데상트골프] 26 F/W New Arrivals",
       "summary": "롯데백화점 공식 행사",
       "location": "백화점 광주점 · 6F 본매장",
-      "period": "9.28(월) ~ 10.11(일)",
+      "period": "10.1(목) ~ 10.18(일)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000555411&ch=shopnow",
       "imageUrl": "https://minfo.lotteshopping.com/content/news/202608/SNM00000000000555411/20260826151741247_1.jpeg",
       "topics": [
@@ -4566,7 +4577,7 @@
       "title": "[말본골프] 26 F/W 신상품제안",
       "summary": "롯데백화점 공식 행사",
       "location": "백화점 광주점 · 6F 본매장",
-      "period": "9.28(월) ~ 10.11(일)",
+      "period": "10.1(목) ~ 10.18(일)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000563424&ch=shopnow",
       "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/SNM00000000000559208/20260910165000575_8.jpeg",
       "topics": [
@@ -4703,7 +4714,7 @@
       "id": "lotte-SNM00000000000563376",
       "brand": "lotte",
       "category": "shopping",
-      "title": "[블랙야크 + 아웃도어] 가을 상품전",
+      "title": "[블랙야크&아웃도어] 가을 상품전",
       "summary": "롯데백화점 공식 행사",
       "location": "백화점 청량리점 · 점행사장",
       "period": "10.2(금) ~ 10.8(목)",
@@ -4748,7 +4759,7 @@
       "title": "[빈폴골프] 가을 라운딩룩 추천",
       "summary": "롯데백화점 공식 행사",
       "location": "백화점 광주점 · 6F 본매장",
-      "period": "9.28(월) ~ 10.11(일)",
+      "period": "10.1(목) ~ 10.18(일)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000559201&ch=shopnow",
       "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/20260909141327288_8.jpeg",
       "topics": [
@@ -4770,12 +4781,26 @@
       ]
     },
     {
+      "id": "lotte-SNM00000000000524321",
+      "brand": "lotte",
+      "category": "shopping",
+      "title": "[스포츠] 10월 스포츠 Week",
+      "summary": "롯데백화점 공식 행사",
+      "location": "아울렛 대구율하점 · 2F 본매장",
+      "period": "10.1(목) ~ 10.11(일)",
+      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000524321&ch=shopnow",
+      "imageUrl": "https://minfo.lotteshopping.com/content/temp/202006/CNT00000000000008186/20200605141834414_1.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
       "id": "lotte-SNM00000000000542070",
       "brand": "lotte",
       "category": "shopping",
-      "title": "[써스데이아일랜드] FW 인기상품 POP-UP",
+      "title": "[써스데이아일랜드] FW 인기상품 Pop-Up",
       "summary": "롯데백화점 공식 행사",
-      "location": "프리미엄 아울렛 기흥점 · 몰B1F 행사장",
+      "location": "프리미엄 아울렛 기흥점 · 몰B1 행사장",
       "period": "10.1(목) ~ 10.7(수)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000542070&ch=shopnow",
       "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/SNM00000000000542070/20260921171714891_1.jpeg",
@@ -4938,6 +4963,20 @@
       ]
     },
     {
+      "id": "lotte-SNM00000000000563997",
+      "brand": "lotte",
+      "category": "shopping",
+      "title": "[질스튜어트뉴욕] New open",
+      "summary": "롯데백화점 공식 행사",
+      "location": "백화점 전주점 · 4F 본매장",
+      "period": "10.2(금) OPEN",
+      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000563997&ch=shopnow",
+      "imageUrl": "https://minfo.lotteshopping.com/content/news/202610/SNM00000000000563997/20261001172417273_1.jpeg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
       "id": "lotte-ENT00000000000012609",
       "brand": "lotte",
       "category": "shopping",
@@ -4958,7 +4997,7 @@
       "title": "[캘러웨이] 26 F/W New Arrivals",
       "summary": "롯데백화점 공식 행사",
       "location": "백화점 광주점 · 6F 본매장",
-      "period": "9.28(월) ~ 10.11(일)",
+      "period": "10.1(목) ~ 10.18(일)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000555415&ch=shopnow",
       "imageUrl": "https://minfo.lotteshopping.com/content/news/202608/SNM00000000000555415/20260826153105106_0.jpeg",
       "topics": [
@@ -5022,29 +5061,15 @@
       ]
     },
     {
-      "id": "lotte-SNM00000000000555406",
-      "brand": "lotte",
-      "category": "shopping",
-      "title": "[타이틀리스트] 26 F/W New Arrivals",
-      "summary": "롯데백화점 공식 행사",
-      "location": "백화점 광주점 · 6F 본매장",
-      "period": "9.28(월) ~ 10.11(일)",
-      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000555406&ch=shopnow",
-      "imageUrl": "https://minfo.lotteshopping.com/content/news/202608/SNM00000000000555045/20260825151743573_4.jpeg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "lotte-SNM00000000000563042",
       "brand": "lotte",
       "category": "shopping",
-      "title": "[타이틀리스트]2026 F/W 시즌컬렉션 출시",
+      "title": "[타이틀리스트] 26 F/W 시즌 컬렉션 출시",
       "summary": "롯데백화점 공식 행사",
       "location": "백화점 중동점 · 7F 본매장",
       "period": "10.1(목) ~ 10.22(목)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000563042&ch=shopnow",
-      "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/20260929142528706_1.jpeg",
+      "imageUrl": "https://minfo.lotteshopping.com/content/news/202610/20261006145507553_1.jpeg",
       "topics": [
         "fashion"
       ]
@@ -5053,7 +5078,7 @@
       "id": "lotte-SNM00000000000562764",
       "brand": "lotte",
       "category": "shopping",
-      "title": "[테일러메이드/매드캐토스]가을 골프웨어 특집",
+      "title": "[테일러메이드/매드캐토스] 가을 골프웨어 특집",
       "summary": "롯데백화점 공식 행사",
       "location": "백화점 중동점 · 7F 보이드 행사장",
       "period": "10.2(금) ~ 10.8(목)",
@@ -5067,7 +5092,7 @@
       "id": "lotte-SNM00000000000563034",
       "brand": "lotte",
       "category": "shopping",
-      "title": "[토박스] 킨 & 씨엔타 등 가을 인기 신발 추천",
+      "title": "[토박스] 킨&씨엔타 등 가을 인기 신발 추천",
       "summary": "롯데백화점 공식 행사",
       "location": "백화점 중동점 · 8F 본매장",
       "period": "10.1(목) ~ 10.18(일)",
@@ -5123,7 +5148,7 @@
       "id": "lotte-SNM00000000000560019",
       "brand": "lotte",
       "category": "shopping",
-      "title": "[폴햄]'26 F/W 행복제",
+      "title": "[폴햄] 26 F/W 행복제",
       "summary": "롯데백화점 공식 행사",
       "location": "아울렛 고양터미널점 · 4F 본매장",
       "period": "10.1(목) ~ 10.14(수)",
@@ -5156,7 +5181,7 @@
       "location": "아울렛 고양점 · P1층 이벤트 홀",
       "period": "9.28(월) ~ 10.11(일)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000561455&ch=shopnow",
-      "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/2026092116012694_9.gif",
+      "imageUrl": "https://minfo.lotteshopping.com/content/news/202610/20261006111030204_4.jpeg",
       "topics": [
         "fashion"
       ]
@@ -5176,15 +5201,15 @@
       ]
     },
     {
-      "id": "lotte-SNM00000000000563699",
+      "id": "lotte-SNM00000000000560636",
       "brand": "lotte",
       "category": "shopping",
-      "title": "게스 \"26F/W Super Week\"",
+      "title": "[헬리녹스] 이클립스 팩 다운 자켓 출시",
       "summary": "롯데백화점 공식 행사",
-      "location": "아울렛 고양점 · P2 탑스홀",
-      "period": "10.5(월) ~ 10.11(일)",
-      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000563699&ch=shopnow",
-      "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/20260930175158327_3.jpeg",
+      "location": "백화점 인천점 · 4F 본매장",
+      "period": "9.17(목) OPEN",
+      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000560636&ch=shopnow",
+      "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/SNM00000000000560636/20260917101326728_7.jpeg",
       "topics": [
         "fashion"
       ]
@@ -5199,6 +5224,20 @@
       "period": "10.2(금) ~ 10.8(목)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000562364&ch=shopnow",
       "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/SNM00000000000562364/20260927143422402_7.jpeg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "lotte-SNM00000000000564872",
+      "brand": "lotte",
+      "category": "shopping",
+      "title": "전 세계 NO1.골프브랜드 [타이틀리스트]",
+      "summary": "롯데백화점 공식 행사",
+      "location": "프리미엄 아울렛 기흥점 · 몰B1F 행사장",
+      "period": "10.8(목) ~ 10.14(수)",
+      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000564872&ch=shopnow",
+      "imageUrl": "https://minfo.lotteshopping.com/content/news/202610/SNM00000000000564872/20261006145507775_8.jpeg",
       "topics": [
         "fashion"
       ]
@@ -5232,15 +5271,15 @@
       ]
     },
     {
-      "id": "shinsegae-shopping-SC00002-8639807",
-      "brand": "shinsegae",
+      "id": "lotte-SNM00000000000556707",
+      "brand": "lotte",
       "category": "shopping",
-      "title": "JUMP SHOP in SEOUL",
-      "summary": "팝업 스토어 · 신세계 공식 쇼핑정보",
-      "location": "강남점 · 센트럴 1층 · 오픈 스테이지",
-      "period": "26.09.23(수) - 26.10.06(화)",
-      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=11&pageLink=%2Fcms12%2FSC00002%2Finfo%2Ftheme%2F8639807_4465.txt&contentDtlCd=06&contentId=8639807&storeCd=SC00002&brandCd=",
-      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00002/info/theme/__icsFiles/afieldfile/2026/09/14/1.png",
+      "title": "📍Outdoor 아웃도어 [헬리녹스] Now Open",
+      "summary": "롯데백화점 공식 행사",
+      "location": "백화점 인천점 · 4F 본매장",
+      "period": "9.4(금) OPEN",
+      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000556707&ch=shopnow",
+      "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/SNM00000000000556707/20260908141507551_9.jpeg",
       "topics": [
         "fashion"
       ]
@@ -5372,6 +5411,20 @@
       ]
     },
     {
+      "id": "shinsegae-shopping-SC00006-8655479",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[MLB] F/W 뉴 컬렉션",
+      "summary": "MLB · MLB · 신세계 공식 쇼핑정보",
+      "location": "광주점 · 신관 · 지하1층",
+      "period": "2026.10.07(수) - 2026.10.31(토)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00006%2Finfo%2Fshopping%2Fbrndsingle%2F8655479_4514.txt&contentDtlCd=01&contentId=8655479&storeCd=SC00006&brandCd=UB0000047",
+      "imageUrl": "",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
       "id": "shinsegae-shopping-SC00006-8638323",
       "brand": "shinsegae",
       "category": "shopping",
@@ -5381,6 +5434,20 @@
       "period": "2026.09.15(화) - 2026.10.11(일)",
       "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00006%2Finfo%2Fshopping%2Fbrndsingle%2F8638323_4514.txt&contentDtlCd=01&contentId=8638323&storeCd=SC00006&brandCd=UB0000047",
       "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00006/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/13/yUEjXhEVJYej.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "shinsegae-shopping-SC00012-8655501",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[MLB] F/W 뉴 컬렉션",
+      "summary": "MLB · MLB · 신세계 공식 쇼핑정보",
+      "location": "하남점 · 백화점 · 2층",
+      "period": "2026.10.07(수) - 2026.10.31(토)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00012%2Finfo%2Fshopping%2Fbrndsingle%2F8655501_4637.txt&contentDtlCd=01&contentId=8655501&storeCd=SC00012&brandCd=UB0000047",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00012/info/shopping/brndsingle/__icsFiles/afieldfile/2026/10/05/gcWghP5iCRYf.jpg",
       "topics": [
         "fashion"
       ]
@@ -5428,6 +5495,34 @@
       ]
     },
     {
+      "id": "shinsegae-shopping-SC00007-8655227",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[MLB] THE RESCENE WAY",
+      "summary": "MLB · MLB · 신세계 공식 쇼핑정보",
+      "location": "사우스시티 · 백화점 · 4층",
+      "period": "2026.10.07(수) - 2026.10.31(토)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00007%2Finfo%2Fshopping%2Fbrndsingle%2F8655227_4534.txt&contentDtlCd=01&contentId=8655227&storeCd=SC00007&brandCd=UB0000047",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00007/info/shopping/brndsingle/__icsFiles/afieldfile/2026/10/06/X0S6AOElAulX.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "shinsegae-shopping-SC00002-8655552",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[MLB] 스페셜 위크",
+      "summary": "MLB · MLB · 신세계 공식 쇼핑정보",
+      "location": "강남점 · 백화점 · 8층",
+      "period": "2026.10.07(수) - 2026.10.31(토)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00002%2Finfo%2Fshopping%2Fbrndsingle%2F8655552_4454.txt&contentDtlCd=01&contentId=8655552&storeCd=SC00002&brandCd=UB0000047",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00002/info/shopping/brndsingle/__icsFiles/afieldfile/2026/10/05/HcoZCgtIXaW0.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
       "id": "shinsegae-shopping-SC00002-8637547",
       "brand": "shinsegae",
       "category": "shopping",
@@ -5451,6 +5546,20 @@
       "period": "2026.09.15(화) - 2026.10.11(일)",
       "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00060%2Finfo%2Fshopping%2Fbrndsingle%2F8638667_5321.txt&contentDtlCd=01&contentId=8638667&storeCd=SC00060&brandCd=UB0000047",
       "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00060/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/13/KakaoTalk_20260912_155433322-20260912041029-20260912041031.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "shinsegae-shopping-SC00008-8654908",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[MLB] 스페셜 이벤트",
+      "summary": "MLB · MLB · 신세계 공식 쇼핑정보",
+      "location": "센텀시티점 · 백화점 · 지하2층",
+      "period": "2026.10.07(수) - 2026.10.31(토)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00008%2Finfo%2Fshopping%2Fbrndsingle%2F8654908_4553.txt&contentDtlCd=01&contentId=8654908&storeCd=SC00008&brandCd=UB0000047",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00008/info/shopping/brndsingle/__icsFiles/afieldfile/2026/10/04/WyXm2CeGccFa.jpg",
       "topics": [
         "fashion"
       ]
@@ -5708,20 +5817,6 @@
       ]
     },
     {
-      "id": "shinsegae-shopping-SC00013-8648703",
-      "brand": "shinsegae",
-      "category": "shopping",
-      "title": "[골든듀] GARDEN of WONDERS",
-      "summary": "골든듀 · 골든듀 · 신세계 공식 쇼핑정보",
-      "location": "대구점 · 본관 · 1층",
-      "period": "2026.10.01(목) - 2026.10.18(일)",
-      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00013%2Finfo%2Fshopping%2Fbrndsingle%2F8648703_4657.txt&contentDtlCd=01&contentId=8648703&storeCd=SC00013&brandCd=UB0000092",
-      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00013/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/29/qTNbW4cdvu8X.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "shinsegae-shopping-SC00002-8646474",
       "brand": "shinsegae",
       "category": "shopping",
@@ -5731,6 +5826,20 @@
       "period": "2026.10.01(목) - 2026.10.18(일)",
       "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00002%2Finfo%2Fshopping%2Fbrndsingle%2F8646474_4454.txt&contentDtlCd=01&contentId=8646474&storeCd=SC00002&brandCd=UB0000092",
       "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00002/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/29/DFr3gYWmelup.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "shinsegae-shopping-SC00013-8648703",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[골든듀] GARDEN of WONDERS",
+      "summary": "골든듀 · 골든듀 · 신세계 공식 쇼핑정보",
+      "location": "대구점 · 본관 · 1층",
+      "period": "2026.10.01(목) - 2026.10.18(일)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00013%2Finfo%2Fshopping%2Fbrndsingle%2F8648703_4657.txt&contentDtlCd=01&contentId=8648703&storeCd=SC00013&brandCd=UB0000092",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00013/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/29/qTNbW4cdvu8X.jpg",
       "topics": [
         "fashion"
       ]
@@ -5857,6 +5966,20 @@
       "period": "2026.10.03(토) - 2026.10.11(일)",
       "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00010%2Finfo%2Fshopping%2Fbrndsingle%2F8652729_4597.txt&contentDtlCd=01&contentId=8652729&storeCd=SC00010&brandCd=UB0000117",
       "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00010/info/shopping/brndsingle/__icsFiles/afieldfile/2026/10/01/V1GtcnpE1b6m.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "shinsegae-shopping-SC00002-8653091",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[꼼데가르송 포켓] 뉴 컬렉션",
+      "summary": "꼼데가르송포켓 · 꼼데가르송포켓 · 신세계 공식 쇼핑정보",
+      "location": "강남점 · 백화점 · 4층",
+      "period": "2026.10.07(수) - 2026.10.20(화)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00002%2Finfo%2Fshopping%2Fbrndsingle%2F8653091_4454.txt&contentDtlCd=01&contentId=8653091&storeCd=SC00002&brandCd=UB0001474",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00002/info/shopping/brndsingle/__icsFiles/afieldfile/2026/10/02/LEkRDrwnCuxY.jpg",
       "topics": [
         "fashion"
       ]
@@ -6212,20 +6335,6 @@
       ]
     },
     {
-      "id": "shinsegae-shopping-SC00002-8642607",
-      "brand": "shinsegae",
-      "category": "shopping",
-      "title": "[띠어리 여성] 신상품 제안",
-      "summary": "띠어리 여성 · 띠어리 여성 · 신세계 공식 쇼핑정보",
-      "location": "강남점 · 백화점 · 4층",
-      "period": "2026.09.23(수) - 2026.10.06(화)",
-      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00002%2Finfo%2Fshopping%2Fbrndsingle%2F8642607_4454.txt&contentDtlCd=01&contentId=8642607&storeCd=SC00002&brandCd=UB0000255",
-      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00002/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/21/yD9Gl07swwoa.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "shinsegae-shopping-SC00002-8647685",
       "brand": "shinsegae",
       "category": "shopping",
@@ -6436,20 +6545,6 @@
       ]
     },
     {
-      "id": "shinsegae-shopping-SC00005-8649720",
-      "brand": "shinsegae",
-      "category": "shopping",
-      "title": "[록시땅] 베스트 세트 제안",
-      "summary": "록시땅 · 록시땅 · 신세계 공식 쇼핑정보",
-      "location": "마산점 · 백화점 · 1층",
-      "period": "2026.10.01(목) - 2026.10.15(목)",
-      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00005%2Finfo%2Fshopping%2Fbrndsingle%2F8649720_4494.txt&contentDtlCd=01&contentId=8649720&storeCd=SC00005&brandCd=UB0000327",
-      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00005/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/29/5yXRT07JNlbp.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "shinsegae-shopping-SC00001-8648619",
       "brand": "shinsegae",
       "category": "shopping",
@@ -6459,6 +6554,20 @@
       "period": "2026.10.01(목) - 2026.11.08(일)",
       "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00001%2Finfo%2Fshopping%2Fbrndsingle%2F8648619_4404.txt&contentDtlCd=01&contentId=8648619&storeCd=SC00001&brandCd=UB0000327",
       "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00001/info/shopping/brndsingle/__icsFiles/afieldfile/2026/10/01/dUBJyS4RFAXG.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "shinsegae-shopping-SC00005-8649720",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[록시땅] 베스트 세트 제안",
+      "summary": "록시땅 · 록시땅 · 신세계 공식 쇼핑정보",
+      "location": "마산점 · 백화점 · 1층",
+      "period": "2026.10.01(목) - 2026.10.15(목)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00005%2Finfo%2Fshopping%2Fbrndsingle%2F8649720_4494.txt&contentDtlCd=01&contentId=8649720&storeCd=SC00005&brandCd=UB0000327",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00005/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/29/5yXRT07JNlbp.jpg",
       "topics": [
         "fashion"
       ]
@@ -7066,6 +7175,20 @@
       ]
     },
     {
+      "id": "shinsegae-shopping-SC00007-8655402",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[베네피트] 인기상품 제안",
+      "summary": "베네피트 · 베네피트 · 신세계 공식 쇼핑정보",
+      "location": "사우스시티 · 백화점 · 1층",
+      "period": "2026.10.07(수) - 2026.10.31(토)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00007%2Finfo%2Fshopping%2Fbrndsingle%2F8655402_4534.txt&contentDtlCd=01&contentId=8655402&storeCd=SC00007&brandCd=UB0000512",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00007/info/shopping/brndsingle/__icsFiles/afieldfile/2026/10/05/EfyCUumQk2tg.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
       "id": "shinsegae-shopping-SC00010-8647686",
       "brand": "shinsegae",
       "category": "shopping",
@@ -7514,6 +7637,20 @@
       ]
     },
     {
+      "id": "shinsegae-shopping-SC00007-8655299",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[아베다] 특별기획 세트",
+      "summary": "아베다 · 아베다 · 신세계 공식 쇼핑정보",
+      "location": "사우스시티 · 백화점 · 1층",
+      "period": "2026.10.04(일) - 2026.10.11(일)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00007%2Finfo%2Fshopping%2Fbrndsingle%2F8655299_4534.txt&contentDtlCd=01&contentId=8655299&storeCd=SC00007&brandCd=UB0000790",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00007/info/shopping/brndsingle/__icsFiles/afieldfile/2026/10/05/bxcKktwdDhuk.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
       "id": "shinsegae-shopping-SC00013-8646795",
       "brand": "shinsegae",
       "category": "shopping",
@@ -7598,20 +7735,6 @@
       ]
     },
     {
-      "id": "shinsegae-shopping-SC00006-8648195",
-      "brand": "shinsegae",
-      "category": "shopping",
-      "title": "[에스티로더] 베스트 세트 제안",
-      "summary": "에스티로더 · 에스티로더 · 신세계 공식 쇼핑정보",
-      "location": "광주점 · 본관 · 2층",
-      "period": "2026.10.02(금) - 2026.10.08(목)",
-      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00006%2Finfo%2Fshopping%2Fbrndsingle%2F8648195_4514.txt&contentDtlCd=01&contentId=8648195&storeCd=SC00006&brandCd=UB0000855",
-      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00006/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/30/vQjEDQykOp2F.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "shinsegae-shopping-SC00002-8647115",
       "brand": "shinsegae",
       "category": "shopping",
@@ -7626,6 +7749,20 @@
       ]
     },
     {
+      "id": "shinsegae-shopping-SC00006-8648195",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[에스티로더] 베스트 세트 제안",
+      "summary": "에스티로더 · 에스티로더 · 신세계 공식 쇼핑정보",
+      "location": "광주점 · 본관 · 2층",
+      "period": "2026.10.02(금) - 2026.10.08(목)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00006%2Finfo%2Fshopping%2Fbrndsingle%2F8648195_4514.txt&contentDtlCd=01&contentId=8648195&storeCd=SC00006&brandCd=UB0000855",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00006/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/30/vQjEDQykOp2F.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
       "id": "shinsegae-shopping-SC00010-8650575",
       "brand": "shinsegae",
       "category": "shopping",
@@ -7635,20 +7772,6 @@
       "period": "2026.10.02(금) - 2026.10.08(목)",
       "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00010%2Finfo%2Fshopping%2Fbrndsingle%2F8650575_4597.txt&contentDtlCd=01&contentId=8650575&storeCd=SC00010&brandCd=UB0008009",
       "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00010/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/30/4mqmts0IL3Z6.png",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
-      "id": "shinsegae-shopping-SC00002-8642606",
-      "brand": "shinsegae",
-      "category": "shopping",
-      "title": "[엠포리오아르마니 여성] 뉴 컬렉션",
-      "summary": "엠포리오아르마니 · 엠포리오아르마니 · 신세계 공식 쇼핑정보",
-      "location": "강남점 · 백화점 · 4층",
-      "period": "2026.09.23(수) - 2026.10.06(화)",
-      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00002%2Finfo%2Fshopping%2Fbrndsingle%2F8642606_4454.txt&contentDtlCd=01&contentId=8642606&storeCd=SC00002&brandCd=UB0000879",
-      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00002/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/21/I3KNHHPHNTuY.jpg",
       "topics": [
         "fashion"
       ]
@@ -7920,6 +8043,20 @@
       ]
     },
     {
+      "id": "shinsegae-shopping-SC00002-8653095",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[조르지오아르마니 남성] 신상품 제안",
+      "summary": "조르지오아르마니 남성 · 조르지오아르마니 남성 · 신세계 공식 쇼핑정보",
+      "location": "강남점 · 백화점 · 6층",
+      "period": "2026.10.07(수) - 2026.10.20(화)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00002%2Finfo%2Fshopping%2Fbrndsingle%2F8653095_4454.txt&contentDtlCd=01&contentId=8653095&storeCd=SC00002&brandCd=UB0001942",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00002/info/shopping/brndsingle/__icsFiles/afieldfile/2026/10/02/RYDW6ZUYgTMY.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
       "id": "shinsegae-shopping-SC00060-8648724",
       "brand": "shinsegae",
       "category": "shopping",
@@ -8186,6 +8323,20 @@
       ]
     },
     {
+      "id": "shinsegae-shopping-SC00002-8653096",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[톰브라운 남성] 신상품 제안",
+      "summary": "톰브라운 · 톰브라운 · 신세계 공식 쇼핑정보",
+      "location": "강남점 · 백화점 · 6층",
+      "period": "2026.10.07(수) - 2026.10.20(화)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00002%2Finfo%2Fshopping%2Fbrndsingle%2F8653096_4454.txt&contentDtlCd=01&contentId=8653096&storeCd=SC00002&brandCd=UB0001183",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00002/info/shopping/brndsingle/__icsFiles/afieldfile/2026/10/02/C2LrmFxVu4rz.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
       "id": "shinsegae-shopping-SC00006-8647781",
       "brand": "shinsegae",
       "category": "shopping",
@@ -8256,6 +8407,20 @@
       ]
     },
     {
+      "id": "shinsegae-shopping-SC00002-8653092",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[파비아나 필리피] 뉴 컬렉션",
+      "summary": "파비아나필리피 · 파비아나필리피 · 신세계 공식 쇼핑정보",
+      "location": "강남점 · 백화점 · 4층",
+      "period": "2026.10.07(수) - 2026.10.20(화)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00002%2Finfo%2Fshopping%2Fbrndsingle%2F8653092_4454.txt&contentDtlCd=01&contentId=8653092&storeCd=SC00002&brandCd=UB0001210",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00002/info/shopping/brndsingle/__icsFiles/afieldfile/2026/10/02/Q0SymRhE2RxS.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
       "id": "shinsegae-shopping-SC00006-8650227",
       "brand": "shinsegae",
       "category": "shopping",
@@ -8270,20 +8435,6 @@
       ]
     },
     {
-      "id": "shinsegae-shopping-SC00002-8642582",
-      "brand": "shinsegae",
-      "category": "shopping",
-      "title": "[폴로 랄프로렌 여성] 뉴 컬렉션",
-      "summary": "폴로 랄프 로렌 여성 · 폴로 랄프 로렌 여성 · 신세계 공식 쇼핑정보",
-      "location": "강남점 · 백화점 · 4층",
-      "period": "2026.09.23(수) - 2026.10.06(화)",
-      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00002%2Finfo%2Fshopping%2Fbrndsingle%2F8642582_4454.txt&contentDtlCd=01&contentId=8642582&storeCd=SC00002&brandCd=UB0003148",
-      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00002/info/shopping/brndsingle/__icsFiles/afieldfile/2026/09/21/zRr2UJMShUEM.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "shinsegae-shopping-SC00013-8634053",
       "brand": "shinsegae",
       "category": "shopping",
@@ -8293,6 +8444,20 @@
       "period": "2026.09.11(금) - 2026.10.08(목)",
       "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00013%2Finfo%2Fshopping%2Fbrndintg%2F8634053_4656.txt&contentDtlCd=01&contentId=8634053&storeCd=SC00013&brandCd=UB0003213",
       "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00013/info/shopping/brndintg/__icsFiles/afieldfile/2026/09/09/1788775375504-20260907070415-20260907070416_5.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "shinsegae-shopping-SC00002-8653108",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[폴스미스] 신상품 론칭",
+      "summary": "폴스미스남성 · 폴스미스남성 · 신세계 공식 쇼핑정보",
+      "location": "강남점 · 백화점 · 6층",
+      "period": "2026.10.07(수) - 2026.10.20(화)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00002%2Finfo%2Fshopping%2Fbrndsingle%2F8653108_4454.txt&contentDtlCd=01&contentId=8653108&storeCd=SC00002&brandCd=UB0004574",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00002/info/shopping/brndsingle/__icsFiles/afieldfile/2026/10/02/SxgTPDFllh74.jpg",
       "topics": [
         "fashion"
       ]
