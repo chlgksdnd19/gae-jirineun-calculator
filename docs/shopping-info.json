@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T03:39:22Z",
+  "updatedAt": "2026-11-28T03:20:01Z",
   "sourceNotice": "롯데·현대·신세계 공식 쇼핑뉴스를 매일 확인합니다. 각 카드를 눌러 지점·기간·제외 품목 등 최종 조건을 확인하세요.",
   "sources": {
     "hyundai": {
       "ok": true,
       "count": 9,
-      "checkedAt": "2026-11-27T03:39:22Z",
+      "checkedAt": "2026-11-28T03:20:01Z",
       "url": "https://ehyundai.com/newPortal/EV/EV000001_L.do?page=1",
-      "fashionCount": 149
+      "fashionCount": 160
     },
     "lotte": {
       "ok": true,
       "count": 37,
-      "checkedAt": "2026-11-27T03:39:22Z",
+      "checkedAt": "2026-11-28T03:20:01Z",
       "url": "https://www.lotteshopping.com/shopnow/cntsList?cstrCd=0005",
       "fashionCount": 235
     },
     "shinsegae": {
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-27T03:39:22Z",
+      "checkedAt": "2026-11-28T03:20:01Z",
       "url": "https://deptmapp.shinsegae.com/shopping/event/list.do",
-      "fashionCount": 272
+      "fashionCount": 269
     }
   },
   "items": [
@@ -211,7 +211,7 @@
       "brand": "lotte",
       "category": "discount",
       "title": "[나이키] 11월 정기세일 Promotion",
-      "summary": "더욱 다양한 제품들을 특별한 할인 혜택으로 만나보세요! · 의류&신발 UP TO 30% * 정상 소비자가 기준 *일부 품목이 제외 될 수 있습니다. 기간 : 26.11.16(월)~26.11.29(일)",
+      "summary": "롯데백화점 공식 행사",
       "location": "백화점 김포공항점 · 쇼핑몰 · GF 본매장",
       "period": "11.16(월) ~ 11.29(일)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000573250&ch=shopnow",
@@ -361,7 +361,7 @@
       "brand": "lotte",
       "category": "discount",
       "title": "[나이키] 신발 특가 제안전",
-      "summary": "ㆍ시즌오프상품중 선별하여 특가를 제안하는 프로모션입니다. ㆍ한시적으로 진행되는 프로모션으로, 지난 결제건에 대해서는 재 결제 및 합산 불가합니다 ㆍ리조트쿠폰 등 타 프로모션과는 중복사용이 불가합니다 ㆍ매장방문 구매고객님들께 드리는 프로모션으로 유선상 및 기타결제(AS차액결제 등)는 혜택에서 제외됩니다. · 💚 이월 상품 특가 신발 ZONE 에서는 49,000 ~ 119,000원 균일가 특별 할인전을 진행중 입니다. 📍그외 다양한 상품도 같이 만나보세요! 많은 관심 부탁드리겠습니다. ※ 한정 물량 소진시까지 ※ 타 할인 행사와 중복할인 불가",
+      "summary": "롯데백화점 공식 행사",
       "location": "아울렛 부여점 · 2F 본매장",
       "period": "11.26(목) ~",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000575347&ch=shopnow",
@@ -466,7 +466,7 @@
       "brand": "lotte",
       "category": "discount",
       "title": "[나이키]할인 프로모션",
-      "summary": "롯데백화점 공식 행사",
+      "summary": "● 복수구매 할인 2개 구매시 10% 할인 3개 구매 시 20% 할인 기간 : 11/27(금) - 11/29(일), 3일간 ★ 다운패딩 추가 할인 ★ **일부 품목 제외** ● 다운패딩 할인 Ⅰ.다운패딩 20% 할인 Ⅱ. 다운베스트 30% 할인 기간 : 11/9(금) ~ 11/29(일) · 2개 구매시 10% 할인 3개 구매시 20% 할인 기간 : 11/27(금) - 11/29(일), 3일간 ★ 다운패딩 추가 할인 포함 ★ **일부 품목 제외**",
       "location": "백화점 안산점 · 본관 6F 본매장",
       "period": "11.27(금) ~ 11.29(일)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000575029&ch=shopnow",
@@ -481,7 +481,7 @@
       "brand": "lotte",
       "category": "discount",
       "title": "[나이키]할인 프로모션",
-      "summary": "2개 구매시 10% 할인 3개 구매시 20% 할인 ★ 다운·패딩 추가 할인 포함 ★ **일부 품목 제외** · 다운. 패딩 20% ~ 30% 할인",
+      "summary": "롯데백화점 공식 행사",
       "location": "백화점 중동점 · 7F 본매장",
       "period": "11.27(금) ~ 11.29(일)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000574962&ch=shopnow",
@@ -527,7 +527,7 @@
       "brand": "lotte",
       "category": "discount",
       "title": "[쇼핑몰 스포츠] 나이키 단일 브랜드 10% 사은",
-      "summary": "당일 본인 L.POINT 적립 영수증에 한하여 증정 가능 · 당일 본인 L.POINT 적립 영수증에 한하여 증정합니다.",
+      "summary": "롯데백화점 공식 행사",
       "location": "타임빌라스 수원 · 모바일 참여",
       "period": "11.27(금) ~ 11.29(일)",
       "sourceUrl": "https://www.lotteshopping.com/thku/thkuDetail?thkuNo=THK00000000000125816&ch=shopnow",
@@ -557,7 +557,7 @@
       "brand": "lotte",
       "category": "discount",
       "title": "[아디다스] 본매장 추가할인 프로모션",
-      "summary": "① [11/17 ~ 12/7] - 제품 2개 구매 시 추가 20% 할인 ② [11/20 ~ 11/30] - 제품 3개 구매 시 추가 30% 할인",
+      "summary": "롯데백화점 공식 행사",
       "location": "프리미엄 아울렛 김해점 · 본관 1F 아디다스 본매장",
       "period": "11.17(화) ~ 12.7(월)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000573706&ch=shopnow",
@@ -602,7 +602,7 @@
       "brand": "lotte",
       "category": "discount",
       "title": "[아디다스] 추가 할인 PROMOTION",
-      "summary": "20% 추가 할인시 61,000원 · 20% 추가 할인시 50,500원",
+      "summary": "롯데백화점 공식 행사",
       "location": "프리미엄 아울렛 의왕점 · 1F 본매장",
       "period": "11.17(화) ~ 12.7(월)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000574757&ch=shopnow",
@@ -617,7 +617,7 @@
       "brand": "lotte",
       "category": "discount",
       "title": "[아디다스] 추가 할인 프로모션",
-      "summary": "롯데백화점 공식 행사",
+      "summary": "의류, 신발, 액세서리 관계없이 제품 2개 이상 구매 시 추가 30% 할인 혜택을 드립니다",
       "location": "프리미엄 아울렛 이천점 · Sports Ville 1F 본매장",
       "period": "11.20(금) ~ 11.30(월)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000573313&ch=shopnow",
@@ -1308,6 +1308,20 @@
       ]
     },
     {
+      "id": "hyundai-E7202611517176",
+      "brand": "hyundai",
+      "category": "discount",
+      "title": "스포츠 프로모션 제안",
+      "summary": "현대백화점 현대아울렛 김포점 공식 쇼핑뉴스",
+      "location": "현대아울렛 김포점 · 본매장",
+      "period": "2026.11.27 ~ 2026.12.03",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7202611517176&category=event&page=1&branchCd=B00172000",
+      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202611/24/702e7940-2863-4546-a665-119b6d69536b.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
       "id": "hyundai-E7502611516948",
       "brand": "hyundai",
       "category": "discount",
@@ -1317,6 +1331,48 @@
       "period": "2026.11.20 ~ 2026.11.29",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7502611516948&category=event&page=1&branchCd=B00175000",
       "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202608/27/a8de2ffe-1b43-403e-a557-4325f7ffd7cc_02.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "hyundai-E7202611517540",
+      "brand": "hyundai",
+      "category": "discount",
+      "title": "아우터 특가전 I CK진/커버낫/버커루",
+      "summary": "현대백화점 현대아울렛 김포점 공식 쇼핑뉴스",
+      "location": "현대아울렛 김포점 · 야외텐트행사장 (무이 앞)",
+      "period": "2026.11.27 ~ 2026.12.03",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7202611517540&category=event&page=1&branchCd=B00172000",
+      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202610/28/c45ae16e-0164-4a44-b591-71a2564bb074_02.png",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "hyundai-E7202611517528",
+      "brand": "hyundai",
+      "category": "discount",
+      "title": "아우터 특가전 II 리스트/시슬리/에고이스트",
+      "summary": "현대백화점 현대아울렛 김포점 공식 쇼핑뉴스",
+      "location": "현대아울렛 김포점 · 이벤트플라자 (메종드H)",
+      "period": "2026.11.27 ~ 2026.12.03",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7202611517528&category=event&page=1&branchCd=B00172000",
+      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202611/20/1e998ad6-9137-4954-b383-084ffe1ef01e_02.png",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "hyundai-E7202611517753",
+      "brand": "hyundai",
+      "category": "discount",
+      "title": "아우터 특가전 III 엄브로/르꼬끄/PUMA",
+      "summary": "현대백화점 현대아울렛 김포점 공식 쇼핑뉴스",
+      "location": "현대아울렛 김포점 · 본매장",
+      "period": "2026.11.27 ~ 2026.12.03",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7202611517753&category=event&page=1&branchCd=B00172000",
+      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202611/25/4b7338a5-a044-48f3-8f83-d30569db11ea_02.jpg",
       "topics": [
         "fashion"
       ]
@@ -1373,6 +1429,34 @@
       "period": "2026.11.27 ~ 2026.11.29",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E1102611517278&category=event&page=1&branchCd=B00141000",
       "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202610/20/0a7f7815-61ac-4431-8520-e634e5f6ac95_02.png",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "hyundai-E7202611517427",
+      "brand": "hyundai",
+      "category": "discount",
+      "title": "아웃도어 컬렉션 I 블랙야크 최대 70%",
+      "summary": "현대백화점 현대아울렛 김포점 공식 쇼핑뉴스",
+      "location": "현대아울렛 김포점 · 이벤트 플라자",
+      "period": "2026.11.27 ~ 2026.12.03",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7202611517427&category=event&page=1&branchCd=B00172000",
+      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202611/11/4d857f4c-adba-4c6c-9eba-d5a46892fa19_02.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "hyundai-E7202611517424",
+      "brand": "hyundai",
+      "category": "discount",
+      "title": "아웃도어 컬렉션 II 네파 최대 70%",
+      "summary": "현대백화점 현대아울렛 김포점 공식 쇼핑뉴스",
+      "location": "현대아울렛 김포점 · 이벤트 플라자",
+      "period": "2026.11.27 ~ 2026.12.03",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7202611517424&category=event&page=1&branchCd=B00172000",
+      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202610/29/d8e57fe4-5939-4d91-a7f2-8e1447099989.jpg",
       "topics": [
         "fashion"
       ]
@@ -1574,6 +1658,48 @@
       ]
     },
     {
+      "id": "hyundai-E7202611517459",
+      "brand": "hyundai",
+      "category": "discount",
+      "title": "프리미엄 아우터 특가 I 캐나다구스/노비스 외",
+      "summary": "현대백화점 현대아울렛 김포점 공식 쇼핑뉴스",
+      "location": "현대아울렛 김포점 · 본매장",
+      "period": "2026.11.27 ~ 2026.12.03",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7202611517459&category=event&page=1&branchCd=B00172000",
+      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202611/10/316051b6-1ee0-4908-ae08-613592b5f448.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "hyundai-E7202611517645",
+      "brand": "hyundai",
+      "category": "discount",
+      "title": "프리미엄 아우터 특가 II 듀베티카",
+      "summary": "현대백화점 현대아울렛 김포점 공식 쇼핑뉴스",
+      "location": "현대아울렛 김포점 · 이벤트 플라자 (캠퍼매장 옆)",
+      "period": "2026.11.27 ~ 2026.12.03",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7202611517645&category=event&page=1&branchCd=B00172000",
+      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202611/25/ed236c80-b548-4a4d-93b2-5de88ebecdba.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "hyundai-E7202611517652",
+      "brand": "hyundai",
+      "category": "discount",
+      "title": "프리미엄 아우터 특가 III 페트레이",
+      "summary": "현대백화점 현대아울렛 김포점 공식 쇼핑뉴스",
+      "location": "현대아울렛 김포점 · 해당 매장",
+      "period": "2026.11.27 ~ 2026.12.03",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7202611517652&category=event&page=1&branchCd=B00172000",
+      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202608/20/6c33b768-1032-4588-8b7d-751cfce8ec56_02.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
       "id": "hyundai-E7502611516856",
       "brand": "hyundai",
       "category": "discount",
@@ -1583,6 +1709,20 @@
       "period": "2026.11.27 ~ 2026.12.03",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7502611516856&category=event&page=1&branchCd=B00175000",
       "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202611/19/b7486527-bb79-4aee-bf4e-7b01a466e435.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "hyundai-E7202611517716",
+      "brand": "hyundai",
+      "category": "discount",
+      "title": "해외패션 스페셜 프로모션",
+      "summary": "현대백화점 현대아울렛 김포점 공식 쇼핑뉴스",
+      "location": "현대아울렛 김포점 · 해당 매장",
+      "period": "",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7202611517716&category=event&page=1&branchCd=B00172000",
+      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202608/26/b3a59bfa-d5fc-4246-b7bb-3c025fc51c2a_02.jpg",
       "topics": [
         "fashion"
       ]
@@ -1891,6 +2031,20 @@
       "period": "11.27(금) ~ 12.3(목)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000574749&ch=shopnow",
       "imageUrl": "https://minfo.lotteshopping.com/content/news/202611/20261126171755140_3.jpeg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "lotte-SNM00000000000574866",
+      "brand": "lotte",
+      "category": "discount",
+      "title": "[내셔널지오그래픽] 시즌 특집 최대 65%",
+      "summary": "롯데백화점 공식 행사",
+      "location": "프리미엄 아울렛 동부산점 · 프리미엄 아울렛 · 프리미엄 아울렛 동부산점 1층 바버 옆 특설행사장",
+      "period": "11.26(목) ~ 12.2(수)",
+      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000574866&ch=shopnow",
+      "imageUrl": "https://minfo.lotteshopping.com/content/news/202611/SNM00000000000574866/20261122110311968_4.jpeg",
       "topics": [
         "fashion"
       ]
@@ -2218,6 +2372,20 @@
       ]
     },
     {
+      "id": "lotte-SNM00000000000575229",
+      "brand": "lotte",
+      "category": "discount",
+      "title": "[바버]리뉴얼오픈 UP TO 60%",
+      "summary": "롯데백화점 공식 행사",
+      "location": "프리미엄 아울렛 동부산점 · 프리미엄 아울렛 · 1F 폴바셋 옆",
+      "period": "11.26(목) OPEN",
+      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000575229&ch=shopnow",
+      "imageUrl": "https://minfo.lotteshopping.com/content/news/202603/SNM00000000000517769/20260304185159809_3.jpeg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
       "id": "lotte-THK00000000000125491",
       "brand": "lotte",
       "category": "discount",
@@ -2358,20 +2526,6 @@
       ]
     },
     {
-      "id": "lotte-THK00000000000125599",
-      "brand": "lotte",
-      "category": "discount",
-      "title": "[스포츠] 10% 사은",
-      "summary": "롯데백화점 공식 행사",
-      "location": "백화점 상인점 · 모바일 참여",
-      "period": "11.27(금) ~ 11.29(일)",
-      "sourceUrl": "https://www.lotteshopping.com/thku/thkuDetail?thkuNo=THK00000000000125599&ch=shopnow",
-      "imageUrl": "https://minfo.lotteshopping.com/content/temp/202610/CNT00000000000018228/20261007160226725_4.png",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "lotte-SNM00000000000573050",
       "brand": "lotte",
       "category": "discount",
@@ -2437,6 +2591,20 @@
       "period": "11.27(금) ~ 11.29(일)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000575563&ch=shopnow",
       "imageUrl": "https://minfo.lotteshopping.com/content/news/202609/20260914161415876_5.jpeg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "lotte-SNM00000000000575569",
+      "brand": "lotte",
+      "category": "discount",
+      "title": "[쌤소나이트] 브랜드데이 추가 10%",
+      "summary": "롯데백화점 공식 행사",
+      "location": "프리미엄 아울렛 동부산점 · 프리미엄 아울렛 · 2F 본매장",
+      "period": "11.27(금) ~ 11.29(일)",
+      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000575569&ch=shopnow",
+      "imageUrl": "https://minfo.lotteshopping.com/content/news/202611/2026112412334238_1.jpeg",
       "topics": [
         "fashion"
       ]
@@ -3282,20 +3450,6 @@
       ]
     },
     {
-      "id": "shinsegae-shopping-SC00010-8689601",
-      "brand": "shinsegae",
-      "category": "discount",
-      "title": "[밀리스트] 구매고객께 드리는 특별한 혜택",
-      "summary": "밀리스트 · 밀리스트 · 신세계 공식 쇼핑정보",
-      "location": "의정부점 · 백화점 · 3층",
-      "period": "2026.11.20(금) - 2026.11.27(금)",
-      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00010%2Finfo%2Fshopping%2Fbrndsingle%2F8689601_4597.txt&contentDtlCd=01&contentId=8689601&storeCd=SC00010&brandCd=UB0009926",
-      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00010/info/shopping/brndsingle/__icsFiles/afieldfile/2026/11/20/voS8dxYuvYdc.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "shinsegae-shopping-SC00002-8683222",
       "brand": "shinsegae",
       "category": "discount",
@@ -3618,20 +3772,6 @@
       ]
     },
     {
-      "id": "hyundai-E7702611517584",
-      "brand": "hyundai",
-      "category": "shopping",
-      "title": "LF Winter Promotion 아우터/수트 페스타",
-      "summary": "현대백화점 현대아울렛 대전점 공식 쇼핑뉴스",
-      "location": "현대아울렛 대전점 · 본매장",
-      "period": "2026.11.27 ~ 2026.12.06",
-      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7702611517584&category=event&page=1&branchCd=B00177000",
-      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202611/24/9fab05df-0a92-47dd-8519-9b626a993fed.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "hyundai-E7402611517477",
       "brand": "hyundai",
       "category": "shopping",
@@ -3640,6 +3780,20 @@
       "location": "현대아울렛 송도점 · 본매장",
       "period": "2026.11.27 ~ 2026.12.06",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7402611517477&category=event&page=1&branchCd=B00174000",
+      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202611/24/9fab05df-0a92-47dd-8519-9b626a993fed.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "hyundai-E7702611517584",
+      "brand": "hyundai",
+      "category": "shopping",
+      "title": "LF Winter Promotion 아우터/수트 페스타",
+      "summary": "현대백화점 현대아울렛 대전점 공식 쇼핑뉴스",
+      "location": "현대아울렛 대전점 · 본매장",
+      "period": "2026.11.27 ~ 2026.12.06",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7702611517584&category=event&page=1&branchCd=B00177000",
       "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202611/24/9fab05df-0a92-47dd-8519-9b626a993fed.jpg",
       "topics": [
         "fashion"
@@ -3767,6 +3921,20 @@
       "period": "2026.11.20 ~ 2026.12.03",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4202611516472&category=event&page=1&branchCd=B00142000",
       "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202611/17/17cb300b-929f-4950-be96-8578e4168735.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "hyundai-E4202611517545",
+      "brand": "hyundai",
+      "category": "shopping",
+      "title": "[POP-UP] 패션 잡화 브랜드 팝업",
+      "summary": "현대백화점 목동점 공식 쇼핑뉴스",
+      "location": "목동점 · 본관 3층 팝업 스튜디오(행사장 맞은편)",
+      "period": "2026.11.27 ~ 2026.12.22",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4202611517545&category=event&page=1&branchCd=B00142000",
+      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202611/24/2c752e05-81eb-4e7c-9d2b-875c07268133_02.jpeg",
       "topics": [
         "fashion"
       ]
@@ -3921,6 +4089,20 @@
       "period": "2026.10.21 ~ 2026.12.06",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E2702610511188&category=event&page=1&branchCd=B00127000",
       "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202610/10/ef34c47d-b8ed-475a-a178-d0e330d5274f.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "hyundai-E7202611517430",
+      "brand": "hyundai",
+      "category": "shopping",
+      "title": "골프웨어 윈터 컬렉션 타이틀리스트/PXG 외",
+      "summary": "현대백화점 현대아울렛 김포점 공식 쇼핑뉴스",
+      "location": "현대아울렛 김포점 · 본매장",
+      "period": "2026.11.27 ~ 2026.11.29",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7202611517430&category=event&page=1&branchCd=B00172000",
+      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202609/19/fe76b49c-61f1-4cf2-a23d-1e2a937ffeca.jpg",
       "topics": [
         "fashion"
       ]
@@ -4164,62 +4346,6 @@
       ]
     },
     {
-      "id": "hyundai-E7402611517036",
-      "brand": "hyundai",
-      "category": "shopping",
-      "title": "송현아 겨울 맞이 아우터 쇼핑 찬스Ⅰ",
-      "summary": "현대백화점 현대아울렛 송도점 공식 쇼핑뉴스",
-      "location": "현대아울렛 송도점 · 이벤트 플라자",
-      "period": "2025.11.28 ~ 2025.12.04",
-      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7402611517036&category=event&page=1&branchCd=B00174000",
-      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202611/07/45948ae2-9cd6-470c-b397-da11cad801a0.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
-      "id": "hyundai-E7402611517037",
-      "brand": "hyundai",
-      "category": "shopping",
-      "title": "송현아 겨울 맞이 아우터 쇼핑 찬스Ⅱ",
-      "summary": "현대백화점 현대아울렛 송도점 공식 쇼핑뉴스",
-      "location": "현대아울렛 송도점 · 이벤트 플라자",
-      "period": "2025.11.28 ~ 2025.12.04",
-      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7402611517037&category=event&page=1&branchCd=B00174000",
-      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202611/08/070a30ba-3514-468b-b68d-9b7b7086e4db.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
-      "id": "hyundai-E7402611517039",
-      "brand": "hyundai",
-      "category": "shopping",
-      "title": "송현아 겨울 맞이 아우터 쇼핑 찬스Ⅲ",
-      "summary": "현대백화점 현대아울렛 송도점 공식 쇼핑뉴스",
-      "location": "현대아울렛 송도점 · 이벤트 플라자",
-      "period": "2025.11.28 ~ 2025.12.04",
-      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7402611517039&category=event&page=1&branchCd=B00174000",
-      "imageUrl": "https://imgprism.ehyundai.com/evntCrdInf/imgPath2/202611/21/7fa5c722-c9cf-418e-a8ab-2ac2099dc3c7.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
-      "id": "hyundai-E7402611517041",
-      "brand": "hyundai",
-      "category": "shopping",
-      "title": "송현아 겨울 맞이 아우터 쇼핑 찬스Ⅳ",
-      "summary": "현대백화점 현대아울렛 송도점 공식 쇼핑뉴스",
-      "location": "현대아울렛 송도점 · 이벤트 플라자",
-      "period": "2025.11.28 ~ 2025.12.04",
-      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7402611517041&category=event&page=1&branchCd=B00174000",
-      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202610/20/8e486008-8ebd-4527-8c4a-cc6dc31522e4_02.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "hyundai-E4702611517117",
       "brand": "hyundai",
       "category": "shopping",
@@ -4229,6 +4355,20 @@
       "period": "",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E4702611517117&category=event&page=1&branchCd=B00147000",
       "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202610/20/159fc7a2-f894-40c3-8bbe-5fdc19bcb3b9_02.png",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "hyundai-E7202611517550",
+      "brand": "hyundai",
+      "category": "shopping",
+      "title": "스포츠 WINTER ITEM 제안",
+      "summary": "현대백화점 현대아울렛 김포점 공식 쇼핑뉴스",
+      "location": "현대아울렛 김포점 · 본매장",
+      "period": "2026.11.27 ~ 2026.12.03",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7202611517550&category=event&page=1&branchCd=B00172000",
+      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202610/26/27c7b4d0-48dc-4474-81cc-62a9198aa009_02.jpg",
       "topics": [
         "fashion"
       ]
@@ -4313,6 +4453,34 @@
       "period": "2026.11.30 ~ 2026.12.03",
       "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E1102611517554&category=event&page=1&branchCd=B00127000",
       "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202611/24/64f68957-94a6-4df7-9868-0c9065ea98eb_02.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "hyundai-E7202611517463",
+      "brand": "hyundai",
+      "category": "shopping",
+      "title": "영패션 아우터 특집 ①",
+      "summary": "현대백화점 현대아울렛 김포점 공식 쇼핑뉴스",
+      "location": "현대아울렛 김포점 · 본매장",
+      "period": "2026.11.27 ~ 2026.12.03",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7202611517463&category=event&page=1&branchCd=B00172000",
+      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202611/18/70fdbf26-02fd-4de6-abe7-062fff0a53b6.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "hyundai-E7202611517489",
+      "brand": "hyundai",
+      "category": "shopping",
+      "title": "영패션 아우터 특집 ②",
+      "summary": "현대백화점 현대아울렛 김포점 공식 쇼핑뉴스",
+      "location": "현대아울렛 김포점 · 본매장",
+      "period": "2026.11.27 ~ 2026.12.03",
+      "sourceUrl": "https://ehyundai.com/newPortal/SN/SN_0201000.do?evntCrdCd=E7202611517489&category=event&page=1&branchCd=B00172000",
+      "imageUrl": "https://imgprism.ehyundai.com/derivedImage/fileValue/202610/28/c45ae16e-0164-4a44-b591-71a2564bb074_02.png",
       "topics": [
         "fashion"
       ]
@@ -4576,7 +4744,7 @@
       "title": "[Swing Lab] 골프 시타 예약하기",
       "summary": "롯데백화점 공식 행사",
       "location": "입점 전점 · 각 지점 본 매장",
-      "period": "11.1(일) ~ 11.30(월)",
+      "period": "12.1(화) ~ 12.31(목)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000456729&ch=shopnow",
       "imageUrl": "https://minfo.lotteshopping.com/content/news/202605/SNM00000000000456729/20260529104322493_5.jpeg",
       "topics": [
@@ -5480,20 +5648,6 @@
       ]
     },
     {
-      "id": "lotte-SNM00000000000571317",
-      "brand": "lotte",
-      "category": "shopping",
-      "title": "[진도모피] F/W시즌 추천 상품",
-      "summary": "롯데백화점 공식 행사",
-      "location": "백화점 관악점 · 3F 본매장",
-      "period": "11.6(금) ~ 11.30(월)",
-      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000571317&ch=shopnow",
-      "imageUrl": "https://minfo.lotteshopping.com/content/news/202611/SNM00000000000571030/20261104104403898_5.jpeg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "lotte-SNM00000000000574333",
       "brand": "lotte",
       "category": "shopping",
@@ -5685,20 +5839,6 @@
       "period": "11.20(금) ~ 11.30(월)",
       "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000574291&ch=shopnow",
       "imageUrl": "https://minfo.lotteshopping.com/content/news/202611/SNM00000000000574291/20261118221234234_4.jpeg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
-      "id": "lotte-SNM00000000000566426",
-      "brand": "lotte",
-      "category": "shopping",
-      "title": "[피레넥스] 프리미엄 패딩 Pop-Up",
-      "summary": "롯데백화점 공식 행사",
-      "location": "백화점 잠실점 · 백화점 · 3F 본매장",
-      "period": "26.10.16(금) ~ 27.2.28(일)",
-      "sourceUrl": "https://www.lotteshopping.com/shpgnews/shpgnewsDetail?shpgNewsNo=SNM00000000000566426&ch=shopnow",
-      "imageUrl": "https://minfo.lotteshopping.com/content/news/202610/SNM00000000000566426/20261014162505118_5.jpeg",
       "topics": [
         "fashion"
       ]
@@ -6278,20 +6418,6 @@
       ]
     },
     {
-      "id": "shinsegae-shopping-SC00007-8685495",
-      "brand": "shinsegae",
-      "category": "shopping",
-      "title": "[골든듀] A Glittering Winter Tale",
-      "summary": "골든듀 · 골든듀 · 신세계 공식 쇼핑정보",
-      "location": "사우스시티 · 백화점 · 1층",
-      "period": "2026.11.20(금) - 2026.12.27(일)",
-      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00007%2Finfo%2Fshopping%2Fbrndsingle%2F8685495_4534.txt&contentDtlCd=01&contentId=8685495&storeCd=SC00007&brandCd=UB0000092",
-      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00007/info/shopping/brndsingle/__icsFiles/afieldfile/2026/11/19/05JdRI7an0nn.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "shinsegae-shopping-SC00060-8691361",
       "brand": "shinsegae",
       "category": "shopping",
@@ -6315,6 +6441,20 @@
       "period": "2026.11.20(금) - 2026.12.27(일)",
       "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00060%2Finfo%2Fshopping%2Fbrndsingle%2F8688531_5321.txt&contentDtlCd=01&contentId=8688531&storeCd=SC00060&brandCd=UB0000092",
       "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00060/info/shopping/brndsingle/__icsFiles/afieldfile/2026/11/21/oBvDVQiPrBws.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "shinsegae-shopping-SC00007-8685495",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[골든듀] A Glittering Winter Tale",
+      "summary": "골든듀 · 골든듀 · 신세계 공식 쇼핑정보",
+      "location": "사우스시티 · 백화점 · 1층",
+      "period": "2026.11.20(금) - 2026.12.27(일)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00007%2Finfo%2Fshopping%2Fbrndsingle%2F8685495_4534.txt&contentDtlCd=01&contentId=8685495&storeCd=SC00007&brandCd=UB0000092",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00007/info/shopping/brndsingle/__icsFiles/afieldfile/2026/11/19/05JdRI7an0nn.jpg",
       "topics": [
         "fashion"
       ]
@@ -6502,20 +6642,6 @@
       ]
     },
     {
-      "id": "shinsegae-shopping-SC00013-8689948",
-      "brand": "shinsegae",
-      "category": "shopping",
-      "title": "[나스] 신상품 제안",
-      "summary": "나스 · 나스 · 신세계 공식 쇼핑정보",
-      "location": "대구점 · 본관 · 1층",
-      "period": "2026.11.27(금) - 2026.12.03(목)",
-      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00013%2Finfo%2Fshopping%2Fbrndsingle%2F8689948_4657.txt&contentDtlCd=01&contentId=8689948&storeCd=SC00013&brandCd=UB0000141",
-      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00013/info/shopping/brndsingle/__icsFiles/afieldfile/2026/11/26/gZX2ZpLEdbFG.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "shinsegae-shopping-SC00002-8662920",
       "brand": "shinsegae",
       "category": "shopping",
@@ -6525,6 +6651,20 @@
       "period": "2026.11.01(일) - 2026.11.30(월)",
       "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00002%2Finfo%2Fshopping%2Fbrndsingle%2F8662920_4454.txt&contentDtlCd=01&contentId=8662920&storeCd=SC00002&brandCd=UB0000141",
       "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00002/info/shopping/brndsingle/__icsFiles/afieldfile/2026/10/18/ANSWh2VyghmI.jpg",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "shinsegae-shopping-SC00013-8689948",
+      "brand": "shinsegae",
+      "category": "shopping",
+      "title": "[나스] 신상품 제안",
+      "summary": "나스 · 나스 · 신세계 공식 쇼핑정보",
+      "location": "대구점 · 본관 · 1층",
+      "period": "2026.11.27(금) - 2026.12.03(목)",
+      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00013%2Finfo%2Fshopping%2Fbrndsingle%2F8689948_4657.txt&contentDtlCd=01&contentId=8689948&storeCd=SC00013&brandCd=UB0000141",
+      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00013/info/shopping/brndsingle/__icsFiles/afieldfile/2026/11/26/gZX2ZpLEdbFG.jpg",
       "topics": [
         "fashion"
       ]
@@ -7650,20 +7790,6 @@
       ]
     },
     {
-      "id": "shinsegae-shopping-SC00011-8685173",
-      "brand": "shinsegae",
-      "category": "shopping",
-      "title": "[스와로브스키] 베스트 상품 제안",
-      "summary": "스와로브스키 · 스와로브스키 · 신세계 공식 쇼핑정보",
-      "location": "김해점 · 백화점 · 1층",
-      "period": "2026.11.20(금) - 2026.11.27(금)",
-      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00011%2Finfo%2Fshopping%2Fbrndsingle%2F8685173_4617.txt&contentDtlCd=01&contentId=8685173&storeCd=SC00011&brandCd=UB0000705",
-      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00011/info/shopping/brndsingle/__icsFiles/afieldfile/2026/11/14/s9ESCJFfHWyY.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
       "id": "shinsegae-shopping-SC00013-8686053",
       "brand": "shinsegae",
       "category": "shopping",
@@ -7687,20 +7813,6 @@
       "period": "2026.11.27(금) - 2026.12.03(목)",
       "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00009%2Finfo%2Fshopping%2Fbrndsingle%2F8692459_4573.txt&contentDtlCd=01&contentId=8692459&storeCd=SC00009&brandCd=UB0000722",
       "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00009/info/shopping/brndsingle/__icsFiles/afieldfile/2026/11/26/QPWJ5Lnh298w.jpg",
-      "topics": [
-        "fashion"
-      ]
-    },
-    {
-      "id": "shinsegae-shopping-SC00010-8685219",
-      "brand": "shinsegae",
-      "category": "shopping",
-      "title": "[스타카토] F/W 신상품 제안",
-      "summary": "스타카토 · 스타카토 · 신세계 공식 쇼핑정보",
-      "location": "의정부점 · 백화점 · 4층",
-      "period": "2026.11.13(금) - 2026.11.27(금)",
-      "sourceUrl": "https://deptmapp.shinsegae.com/shopping/view.do?mainCd=02&pageLink=%2Fcms12%2FSC00010%2Finfo%2Fshopping%2Fbrndsingle%2F8685219_4597.txt&contentDtlCd=01&contentId=8685219&storeCd=SC00010&brandCd=UB0000724",
-      "imageUrl": "https://deptmapp.shinsegae.com/cms12/SC00010/info/shopping/brndsingle/__icsFiles/afieldfile/2026/11/13/KakaoTalk_20261102_101942845_01-20261113045851-20261113045853_3.jpg",
       "topics": [
         "fashion"
       ]
